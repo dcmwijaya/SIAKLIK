@@ -7,7 +7,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black.svg?style=flat&logo=mysql&logoColor=white)
 
 # PROJECT-PKL-SISTEM-PELAYANAN-KLINIK-KESEHATAN
-Project PKL 2020-2021 Tentang Sistem Pelayanan Klinik Kesehatan UPN V Jatim By Team 22 berupa website. Website yang dikembangkan dibangun dengan HTML, CSS, JS, PHP, dan Framework. Adapun keluaran berupa website siap pakai yang sudah valid. Metode uji validasi menggunakan Blackbox Testing. Project ini dilakukan pada tahun 2020-2021.
+Project PKL 2020-2021 Tentang Sistem Pelayanan Klinik Kesehatan UPN V Jatim By Team 22 berupa website. Website yang dikembangkan dibangun dengan HTML, CSS, JS, PHP, dan Framework yang diintegrasikan juga dengan MySQL. Adapun keluaran berupa website siap pakai yang sudah valid. Metode uji validasi menggunakan Blackbox Testing. Project ini dilakukan pada tahun 2020-2021.
 
 <br>
 
@@ -18,3 +18,8 @@ Project PKL 2020-2021 Tentang Sistem Pelayanan Klinik Kesehatan UPN V Jatim By T
 | 2 | Devan Cakra Mudra Wijaya | 18081010013 |
 | 3 | Haidar Ananta Kusuma | 18081010057 |
 | 4 | Rifky Akhmad Fernanda | 18081010126 |
+
+<br>
+
+## DEMO WEBSITE
+https://siaklik.000webhostapp.com/
