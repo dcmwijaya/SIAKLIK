@@ -6,7 +6,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-grey.svg?style=flat&logo=PHP&logoColor=white&color=6B8E23)
 ![MySQL](https://img.shields.io/badge/-MySQL-light.svg?style=flat&logo=mysql&logoColor=white&color=FF4500)
 
-# Project-PKL-Sistem-Pelayanan-Klinik-Kesehatan
+# SIAKLIK
 Project PKL 2020-2021 Tentang Sistem Pelayanan Klinik Kesehatan UPN V Jatim By Team 22 berupa website. Website yang dikembangkan dibangun dengan HTML, CSS, JS, PHP, dan Framework yang diintegrasikan juga dengan MySQL. Adapun keluaran berupa website siap pakai yang sudah valid. Metode uji validasi menggunakan Blackbox Testing. Project ini dilakukan pada tahun 2020-2021. Website ini kami unggulkan di bagian fitur login, register, antrian, dan export data. Selain itu terdapat berbagai macam fitur lainnya seperti grafik, pagination, search, CRUD, Captcha, Hak akses, dan lain-lain.
 
 <br>
