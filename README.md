@@ -20,6 +20,3 @@ Project PKL 2020-2021 Tentang Sistem Pelayanan Klinik Kesehatan UPN V Jatim By T
 | 4 | Rifky Akhmad Fernanda | 18081010126 |
 
 <br>
-
-## Demo Website
-https://siaklik.000webhostapp.com/
