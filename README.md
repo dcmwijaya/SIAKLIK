@@ -1,6 +1,4 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 ![PKL](https://img.shields.io/badge/Project-PKL-blue?logo=github&color=%23F7DF1E)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat&logo=github&color=9370DB)](https://github.com/devancakra/Project-PKL-Sistem-Pelayanan-Klinik-Kesehatan)
 ![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple.svg?style=flat&logo=bootstrap&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-grey.svg?style=flat&logo=PHP&logoColor=white&color=6B8E23)
