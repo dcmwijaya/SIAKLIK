@@ -1,6 +1,6 @@
 ![PKL](https://img.shields.io/badge/Project-PKL-blue?logo=github&color=%23F7DF1E)
-![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple.svg?style=flat&logo=bootstrap&logoColor=white)
+![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/-PHP-grey.svg?style=flat&logo=PHP&logoColor=white&color=6B8E23)
 ![MySQL](https://img.shields.io/badge/-MySQL-light.svg?style=flat&logo=mysql&logoColor=white&color=FF4500)
 
