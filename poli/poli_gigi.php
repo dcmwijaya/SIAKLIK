@@ -88,7 +88,7 @@ session_start();
                             <a href="../poli/poliumum.php"><i class="fas fa-clinic-medical"></i>Poli Umum</a>
                         </li>
                         <li>
-                            <a href="../poli/poli_gigi.php"><i class="fas fa-grimace"></i>Poli Gigi</a>
+                            <a href="../poli/poli_gigi.php"><i class="fas fa-tooth"></i>Poli Gigi</a>
                         </li>
                         <li>
                             <a href="../poli/alurpoli.php"><i class="fas fa-procedures"></i>Informasi & Pelayanan Pasien</a>
@@ -194,10 +194,10 @@ session_start();
                     <a href="#pageDokter" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fas fa-stethoscope"></i>Dokter</a>
                     <ul class="collapse list-unstyled" id="pageDokter">
                         <li>
-                            <a href="#"><i class="fas fa-user-md"></i>Dokter 1</a>
+                            <a href="#"><i class="fas fa-user-md"></i>dr. RR. HENNY YUNIARTI</a>
                         </li>
                         <li>
-                            <a href="#"><i class="fas fa-user-md"></i>Dokter 2</a>
+                            <a href="#"><i class="fas fa-user-md"></i>drg. IDA APRILIANTI</a>
                         </li>
                     </ul>
                 </li>
@@ -205,10 +205,10 @@ session_start();
                     <a href="#pagePerawat" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fas fa-briefcase-medical"></i>Perawat</a>
                     <ul class="collapse list-unstyled" id="pagePerawat">
                         <li>
-                            <a href="#"><i class="fas fa-user-md"></i>Perawat 1</a>
+                            <a href="#"><i class="fas fa-user-md"></i>MOH TOYYIB,S.Kep</a>
                         </li>
                         <li>
-                            <a href="#"><i class="fas fa-user-md"></i>Perawat 2</a>
+                            <a href="#"><i class="fas fa-user-md"></i>MUFARIDA , Amd.Kep</a>
                         </li>
                     </ul>
                 </li>
@@ -384,7 +384,7 @@ session_start();
                 <!-- slide photo -->
                 <section class="slide-photo">
                     <div class="custom-header header-wrapper">
-                        <h4><i class="fas fa-clinic-medical"></i>POLI GIGI</h4>
+                        <h4><i class="fas fa-tooth"></i>POLI GIGI</h4>
                     </div>
                     <hr class="solid">
                     <div class="bd-example row">
@@ -401,52 +401,52 @@ session_start();
                             </ol>
                             <div class="carousel-inner">
                                 <div class="carousel-item active" data-interval="4000">
-                                    <img src="../assets/images/slide/ambulance.jpg" class="d-block w-100" alt="poli ambulance">
+                                    <img height="380" src="../assets/images/slide/ambulance.jpg" class="d-block w-100" alt="poli ambulance">
                                     <div class="carousel-caption d-none d-md-block">
                                         <h5>Ambulance</h5>
                                         <p class="text-light">Fasilitas Ambulan Klinik</p>
                                     </div>
                                 </div>
                                 <div class="carousel-item" data-interval="4000">
-                                    <img src="../assets/images/slide/gigi.jpg" class="d-block w-100" alt="pemeriksaan gigi">
+                                    <img height="380" src="../assets/images/slide/fasgigi.jpg" class="d-block w-100" alt="pemeriksaan gigi">
                                     <div class="carousel-caption d-none d-md-block">
                                         <h5>Poli Gigi</h5>
                                         <p class="text-light">Fasilitas Poli Gigi Klinik</p>
                                     </div>
                                 </div>
                                 <div class="carousel-item" data-interval="4000">
-                                    <img src="../assets/images/slide/poli2.jpg" class="d-block w-100" alt="Poli2">
+                                    <img height="380" src="../assets/images/slide/tinkep.jpg" class="d-block w-100" alt="Poli2">
                                     <div class="carousel-caption d-none d-md-block">
-                                        <h5>Ruangan Poli Umum</h5>
-                                        <p class="text-light">Fasilitas Poli Umum Klinik</p>
+                                        <h5>Poli Umum</h5>
+                                        <p class="text-light">Tindakan Keperawatan</p>
                                     </div>
                                 </div>
                                 <div class="carousel-item" data-interval="4000">
-                                    <img src="../assets/images/slide/poli3.jpg" class="d-block w-100" alt="Poli3">
+                                    <img height="380" src="../assets/images/slide/baksos.jpg" class="d-block w-100" alt="Poli3">
                                     <div class="carousel-caption d-none d-md-block">
                                         <h5>Bakti Sosial</h5>
                                         <p class="text-light">Kegiatan Bakti Sosial Klinik</p>
                                     </div>
                                 </div>
                                 <div class="carousel-item" data-interval="4000">
-                                    <img src="../assets/images/slide/poli4.jpg" class="d-block w-100" alt="Poli4">
+                                    <img height="380" src="../assets/images/slide/donordarah.jpg" class="d-block w-100" alt="Poli4">
                                     <div class="carousel-caption d-none d-md-block">
                                         <h5>Donor Darah</h5>
                                         <p class="text-light">Kegiatan Donor Darah Klinik</p>
                                     </div>
                                 </div>
                                 <div class="carousel-item" data-interval="4000">
-                                    <img src="../assets/images/slide/testKesehatan.jpg" class="d-block w-100" alt="testKesehatan">
+                                    <img height="380" src="../assets/images/slide/teskesehatan.jpg" class="d-block w-100" alt="testKesehatan">
                                     <div class="carousel-caption d-none d-md-block">
                                         <h5>Tes Kesehatan Klinik</h5>
                                         <p class="text-light">Tes Kesehatan Klinik</p>
                                     </div>
                                 </div>
                                 <div class="carousel-item" data-interval="4000">
-                                    <img src="../assets/images/slide/khitan.jpg" class="d-block w-100" alt="Pengkhitanan">
+                                    <img height="380" src="../assets/images/slide/khitan_massal.jpg" class="d-block w-100" alt="Pengkhitanan">
                                     <div class="carousel-caption d-none d-md-block">
-                                        <h5>Khitanan Masal</h5>
-                                        <p class="text-light">Khitanan Masal Klinik</p>
+                                        <h5>Khitanan Massal</h5>
+                                        <p class="text-light">Khitanan Massal Klinik</p>
                                     </div>
                                 </div>
                             </div>
@@ -468,50 +468,17 @@ session_start();
                 <hr class="solid">
 
                 <!-- about poliklinik -->
-                <br><br><section class="about" id="pemeriksaan_pengobatan_poligigi">
+                <br><br><section class="about" id="informasi_poli_gigi">
                     <div class="custom-header about-header">
                         <div class="child-page-listing">
-                            <h4><i class="fas fa-info-circle">&nbsp;Pemeriksaan dan Pengobatan</i></h4><hr>
+                            <h4><i class="fas fa-info-circle">&nbsp;Informasi Poli Gigi</i></h4><hr>
                         <div class="grid-container">
 
                         <article id="3685" class="location-listing">
-                            <a href="../assets/images/poligigi.jpg"><img class="img-size" src="../assets/images/poligigi.jpg" style="height:250px;width:350px;margin-left:10px;height:100%;width:100%;"></a>
+                            <iframe src="https://drive.google.com/file/d/10AEKd4yHqrzAqw5aEm3NiFLAeCjsl4VO/preview" width="670" height="800"></iframe>
                         </article>
                     </div>
                 </section><br><br>
-
-                <section class="about" id="konsultasi_poligigi">
-                    <div class="custom-header about-header">
-                        <div class="child-page-listing">
-                            <h4><i class="fas fa-info-circle">&nbsp;Konsultasi</i></h4><hr>
-                        <div class="grid-container">
-
-                        <article id="3685" class="location-listing">
-                            <a href="../assets/images/konsultasiGIGI1.jpg"><img class="img-size" src="../assets/images/konsultasiGIGI1.jpg" style="height:250px;width:350px;margin-left:10px;height:100%;width:100%;"></a>
-                        </article>
-
-                        <article id="3685" class="location-listing">
-                            <a href="../assets/images/konsultasiGIGI2.jpg"><img class="img-size" src="../assets/images/konsultasiGIGI2.jpg" style="height:250px;width:350px;margin-left:10px;height:100%;width:100%;"></a>
-                        </article>
-
-                        <article id="3685" class="location-listing">
-                            <a href="../assets/images/konsultasiGIGI3.jpg"><img class="img-size" src="../assets/images/konsultasiGIGI3.jpg" style="height:250px;width:350px;margin-left:10px;height:100%;width:100%;"></a>
-                        </article>
-                    </div>
-                </section><br><br>
-
-                <section class="about" id="tindakan_poligigi">
-                    <div class="custom-header about-header">
-                        <div class="child-page-listing">
-                            <h4><i class="fas fa-info-circle">&nbsp;Tindakan Pencabutan dan Penambalan</i></h4><hr>
-                        <div class="grid-container">
-
-                        <article id="3685" class="location-listing">
-                            <a href="../assets/images/poligigi.jpg"><img class="img-size" src="../assets/images/poligigi.jpg" style="height:250px;width:350px;margin-left:10px;height:100%;width:100%;"></a>
-                        </article>
-
-                    </div>
-                </section>
                 <!-- end of about poliklinik -->
 
             </main>

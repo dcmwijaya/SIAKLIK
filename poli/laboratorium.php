@@ -87,7 +87,7 @@ session_start();
                             <a href="../poli/poliumum.php"><i class="fas fa-clinic-medical"></i>Poli Umum</a>
                         </li>
                         <li>
-                            <a href="../poli/poli_gigi.php"><i class="fas fa-grimace"></i>Poli Gigi</a>
+                            <a href="../poli/poli_gigi.php"><i class="fas fa-tooth"></i>Poli Gigi</a>
                         </li>
                         <li>
                             <a href="../poli/alurpoli.php"><i class="fas fa-procedures"></i>Informasi & Pelayanan Pasien</a>
@@ -193,10 +193,10 @@ session_start();
                     <a href="#pageDokter" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fas fa-stethoscope"></i>Dokter</a>
                     <ul class="collapse list-unstyled" id="pageDokter">
                         <li>
-                            <a href="#"><i class="fas fa-user-md"></i>Dokter 1</a>
+                            <a href="#"><i class="fas fa-user-md"></i>dr. RR. HENNY YUNIARTI</a>
                         </li>
                         <li>
-                            <a href="#"><i class="fas fa-user-md"></i>Dokter 2</a>
+                            <a href="#"><i class="fas fa-user-md"></i>drg. IDA APRILIANTI</a>
                         </li>
                     </ul>
                 </li>
@@ -204,10 +204,10 @@ session_start();
                     <a href="#pagePerawat" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fas fa-briefcase-medical"></i>Perawat</a>
                     <ul class="collapse list-unstyled" id="pagePerawat">
                         <li>
-                            <a href="#"><i class="fas fa-user-md"></i>Perawat 1</a>
+                            <a href="#"><i class="fas fa-user-md"></i>MOH TOYYIB,S.Kep</a>
                         </li>
                         <li>
-                            <a href="#"><i class="fas fa-user-md"></i>Perawat 2</a>
+                            <a href="#"><i class="fas fa-user-md"></i>MUFARIDA , Amd.Kep</a>
                         </li>
                     </ul>
                 </li>
@@ -392,7 +392,7 @@ session_start();
                         <br>
                         <h5>2. Upaya Kerjasama</h5>
                         <p>Bekerja sama dengan laboratorium yang di tunjuk dalam pemeriksaan laborat lengkap.<br><br>
-                        <img src="../assets/images/28052013711.jpg" style="height:100%;width:100%;margin-bottom:50px;" /></p>
+                        <img src="../assets/images/kerjasamalab.jpg" style="height:100%;width:100%;margin-bottom:50px;" /></p>
                         <h5>Panduan dapat anda lihat dan dapat anda download dibawah ini :</h5>
                         <a class="link" href="../assets/pdf/laboratoriumSederhana.pdf" style="color:blue;">--- KLIK DISINI ---</a><br><br>
                     </div>

@@ -7,8 +7,10 @@ body {
   font-family: sans-serif;
   background: #f2f2f2;
 }
-img {
+.img-size {
   width: 100%; /* need to overwrite inline dimensions */
+  max-height: 280px;
+  min-height: 280px;
   height: auto;
 }
 h2 {

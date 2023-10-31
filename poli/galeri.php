@@ -87,7 +87,7 @@ session_start();
                             <a href="../poli/poliumum.php"><i class="fas fa-clinic-medical"></i>Poli Umum</a>
                         </li>
                         <li>
-                            <a href="../poli/poli_gigi.php"><i class="fas fa-grimace"></i>Poli Gigi</a>
+                            <a href="../poli/poli_gigi.php"><i class="fas fa-tooth"></i>Poli Gigi</a>
                         </li>
                         <li>
                             <a href="../poli/alurpoli.php"><i class="fas fa-procedures"></i>Informasi & Pelayanan Pasien</a>
@@ -193,10 +193,10 @@ session_start();
                     <a href="#pageDokter" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fas fa-stethoscope"></i>Dokter</a>
                     <ul class="collapse list-unstyled" id="pageDokter">
                         <li>
-                            <a href="#"><i class="fas fa-user-md"></i>Dokter 1</a>
+                            <a href="#"><i class="fas fa-user-md"></i>dr. RR. HENNY YUNIARTI</a>
                         </li>
                         <li>
-                            <a href="#"><i class="fas fa-user-md"></i>Dokter 2</a>
+                            <a href="#"><i class="fas fa-user-md"></i>drg. IDA APRILIANTI</a>
                         </li>
                     </ul>
                 </li>
@@ -204,10 +204,10 @@ session_start();
                     <a href="#pagePerawat" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fas fa-briefcase-medical"></i>Perawat</a>
                     <ul class="collapse list-unstyled" id="pagePerawat">
                         <li>
-                            <a href="#"><i class="fas fa-user-md"></i>Perawat 1</a>
+                            <a href="#"><i class="fas fa-user-md"></i>MOH TOYYIB,S.Kep</a>
                         </li>
                         <li>
-                            <a href="#"><i class="fas fa-user-md"></i>Perawat 2</a>
+                            <a href="#"><i class="fas fa-user-md"></i>MUFARIDA , Amd.Kep</a>
                         </li>
                     </ul>
                 </li>
@@ -386,86 +386,86 @@ session_start();
                         <div class="grid-container">
 
                         <article id="3685" class="location-listing">
-                            <a class="location-title" href="../assets/images/20120912991.jpg">Bhakti Sosial</a>
+                            <a class="location-title" href="../assets/images/gallery/baksos.jpg">Bhakti Sosial</a>
                             <div class="location-image">
-                                <a href="#"><img class="img-size" src="../assets/images/20120912991.jpg" alt="pict1"></a>
+                                <a href="#"><img class="img-size" src="../assets/images/gallery/baksos.jpg" alt="pict1"></a>
                             </div>
                         </article>
 
                         <article id="3688" class="location-listing">
-                            <a class="location-title" href="../assets/images/IMG-20120912-00990.jpg">Pengabdian Masyarakat</a>
+                            <a class="location-title" href="../assets/images/gallery/abdimas.jpg">Pengabdian Masyarakat</a>
                             <div class="location-image">
-                                <a href="#"><img class="img-size" src="../assets/images/IMG-20120912-00990.jpg" alt="pict2"></a>
+                                <a href="#"><img class="img-size" src="../assets/images/gallery/abdimas.jpg" alt="pict2"></a>
                             </div>
                         </article>
 
                         <article id="3691" class="location-listing">
-                            <a class="location-title" href="../assets/images/IMG-20131024-00162.jpg">Khitan</a>
+                            <a class="location-title" href="../assets/images/gallery/khitan.jpg">Khitan</a>
                             <div class="location-image">
-                                <a href="#"><img class="img-size" src="../assets/images/IMG-20131024-00162.jpg" alt="pict3"></a>
+                                <a href="#"><img class="img-size" src="../assets/images/gallery/khitan.jpg" alt="pict3"></a>
                             </div>
                         </article>
 
                         <article id="3694" class="location-listing">
-                            <a class="location-title" href="../assets/images/08042013661.jpg">Ruang Utama</a>
+                            <a class="location-title" href="../assets/images/gallery/rutama.jpg">Ruang Utama</a>
                             <div class="location-image">
-                                <a href="#"><img class="img-size" src="../assets/images/08042013661.jpg" alt="pict4"></a>
+                                <a href="#"><img class="img-size" src="../assets/images/gallery/rutama.jpg" alt="pict4"></a>
                             </div>
                         </article>
 
                         <article id="3697" class="location-listing">
-                            <a class="location-title" href="../assets/images/08042013662.jpg">Poli Umum</a>
+                            <a class="location-title" href="../assets/images/gallery/pumum.jpg">Poli Umum</a>
                             <div class="location-image">
-                                <a href="#"><img class="img-size" src="../assets/images/08042013662.jpg" alt="pict5"></a>
+                                <a href="#"><img class="img-size" src="../assets/images/gallery/pumum.jpg" alt="pict5"></a>
                             </div>
                         </article>
 
                         <article id="3700" class="location-listing">
-                            <a class="location-title" href="../assets/images/28052013711.jpg">Ruang Obat</a>
+                            <a class="location-title" href="../assets/images/gallery/robat.jpg">Ruang Obat</a>
                             <div class="location-image">
-                                <a href="#"><img class="img-size" src="../assets/images/28052013711.jpg" alt="pict6"></a>
+                                <a href="#"><img class="img-size" src="../assets/images/gallery/robat.jpg" alt="pict6"></a>
                             </div>
                         </article>
 
                         <article id="3697" class="location-listing">
-                            <a class="location-title" href="../assets/images/28052013712.jpg">Poli Gigi</a>
+                            <a class="location-title" href="../assets/images/gallery/pgigi.jpg">Poli Gigi</a>
                             <div class="location-image">
-                                <a href="#"><img class="img-size" src="../assets/images/28052013712.jpg" alt="pict7"></a>
+                                <a href="#"><img class="img-size" src="../assets/images/gallery/pgigi.jpg" alt="pict7"></a>
                             </div>
                         </article>
 
                         <article id="3700" class="location-listing">
-                            <a class="location-title" href="../assets/images/28052013719.jpg">Ambulance</a>
+                            <a class="location-title" href="../assets/images/gallery/ambulan.jpg">Ambulance</a>
                             <div class="location-image">
-                                <a href="#"><img class="img-size" src="../assets/images/28052013719.jpg" alt="pict8"></a>
+                                <a href="#"><img class="img-size" src="../assets/images/gallery/ambulan.jpg" alt="pict8"></a>
                             </div>
                         </article>
 
                         <article id="3697" class="location-listing">
-                            <a class="location-title" href="../assets/images/28052013714.jpg">Alat Medis</a>
+                            <a class="location-title" href="../assets/images/gallery/amedis.jpg">Alat Medis</a>
                             <div class="location-image">
-                                <a href="#"><img class="img-size" src="../assets/images/28052013714.jpg" alt="pict9"></a>
+                                <a href="#"><img class="img-size" src="../assets/images/gallery/amedis.jpg" alt="pict9"></a>
                             </div>
                         </article>
 
                         <article id="3700" class="location-listing">
-                            <a class="location-title" href="../assets/images/28052013715.jpg">Penanganan Poli Gigi</a>
+                            <a class="location-title" href="../assets/images/gallery/ppgigi.jpg">Penanganan Poli Gigi</a>
                             <div class="location-image">
-                                <a href="#"><img class="img-size" src="../assets/images/28052013715.jpg" alt="pict10"></a>
+                                <a href="#"><img class="img-size" src="../assets/images/gallery/ppgigi.jpg" alt="pict10"></a>
                             </div>
                         </article>
 
                         <article id="3697" class="location-listing">
-                            <a class="location-title" href="../assets/images/28052013717.jpg">Perawatan</a>
+                            <a class="location-title" href="../assets/images/gallery/rtindakan.jpg">Ruang Tindakan</a>
                             <div class="location-image">
-                                <a href="#"><img class="img-size" src="../assets/images/28052013717.jpg" alt="pict11"></a>
+                                <a href="#"><img class="img-size" src="../assets/images/gallery/rtindakan.jpg" alt="pict11"></a>
                             </div>
                         </article>
 
                         <article id="3697" class="location-listing">
-                            <a class="location-title" href="../assets/images/28052013718.jpg">Ruang Tenaga Medis</a>
+                            <a class="location-title" href="../assets/images/gallery/rtmedis.jpg">Ruang Tenaga Medis</a>
                             <div class="location-image">
-                                <a href="#"><img class="img-size" src="../assets/images/28052013718.jpg" alt="pict12"></a>
+                                <a href="#"><img class="img-size" src="../assets/images/gallery/rtmedis.jpg" alt="pict12"></a>
                             </div>
                         </article>
                         </div>

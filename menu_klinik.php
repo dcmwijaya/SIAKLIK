@@ -1,4 +1,6 @@
 <?php
+include("../config/koneksi.php");
+
 session_start();
 if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true) {
     
@@ -6,11 +8,11 @@ if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true) {
     
     }
     else {
-        header("location:../index.php?pesan=error");
+        header("location:index.php?pesan=error");
     }
     
 } else {
-    header("location:../index.php?pesan=belumlogin");
+    header("location:index.php?pesan=belumlogin");
 }
 ?>
 <!DOCTYPE HTML>
@@ -102,7 +104,7 @@ if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true) {
                             <a href="poli/poliumum.php"><i class="fas fa-clinic-medical"></i>Poli Umum</a>
                         </li>
                         <li>
-                            <a href="poli/poli_gigi.php"><i class="fas fa-grimace"></i>Poli Gigi</a>
+                            <a href="poli/poli_gigi.php"><i class="fas fa-tooth"></i>Poli Gigi</a>
                         </li>
                         <li>
                             <a href="poli/alurpoli.php"><i class="fas fa-procedures"></i>Informasi & Pelayanan Pasien</a>

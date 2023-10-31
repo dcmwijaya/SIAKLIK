@@ -92,7 +92,7 @@ if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true) {
                             <a href="../poli/poliumum.php"><i class="fas fa-clinic-medical"></i>Poli Umum</a>
                         </li>
                         <li>
-                            <a href="../poli/poli_gigi.php"><i class="fas fa-grimace"></i>Poli Gigi</a>
+                            <a href="../poli/poli_gigi.php"><i class="fas fa-tooth"></i>Poli Gigi</a>
                         </li>
                         <li>
                             <a href="../poli/alurpoli.php"><i class="fas fa-procedures"></i>Informasi & Pelayanan Pasien</a>
@@ -198,10 +198,10 @@ if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true) {
                     <a href="#pageDokter" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fas fa-stethoscope"></i>Dokter</a>
                     <ul class="collapse list-unstyled" id="pageDokter">
                         <li>
-                            <a href="#"><i class="fas fa-user-md"></i>Dokter 1</a>
+                            <a href="#"><i class="fas fa-user-md"></i>dr. RR. HENNY YUNIARTI</a>
                         </li>
                         <li>
-                            <a href="#"><i class="fas fa-user-md"></i>Dokter 2</a>
+                            <a href="#"><i class="fas fa-user-md"></i>drg. IDA APRILIANTI</a>
                         </li>
                     </ul>
                 </li>
@@ -209,10 +209,10 @@ if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true) {
                     <a href="#pagePerawat" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fas fa-briefcase-medical"></i>Perawat</a>
                     <ul class="collapse list-unstyled" id="pagePerawat">
                         <li>
-                            <a href="#"><i class="fas fa-user-md"></i>Perawat 1</a>
+                            <a href="#"><i class="fas fa-user-md"></i>MOH TOYYIB,S.Kep</a>
                         </li>
                         <li>
-                            <a href="#"><i class="fas fa-user-md"></i>Perawat 2</a>
+                            <a href="#"><i class="fas fa-user-md"></i>MUFARIDA , Amd.Kep</a>
                         </li>
                     </ul>
                 </li>
