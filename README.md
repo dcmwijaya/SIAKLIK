@@ -5,16 +5,47 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-light.svg?style=flat&logo=mysql&logoColor=white&color=FF4500)
 
 # SIAKLIK
-Project PKL 2020-2021 Tentang Sistem Pelayanan Klinik Kesehatan UPN V Jatim By Team 22 berupa website. Website yang dikembangkan dibangun dengan HTML, CSS, JS, PHP, dan Framework yang diintegrasikan juga dengan MySQL. Adapun keluaran berupa website siap pakai yang sudah valid. Metode uji validasi menggunakan Blackbox Testing. Project ini dilakukan pada tahun 2020-2021. Website ini kami unggulkan di bagian fitur login, register, antrian, dan export data. Selain itu terdapat berbagai macam fitur lainnya seperti grafik, pagination, search, CRUD, Captcha, Hak akses, dan lain-lain.
+We worked on this PKL from 2020 to 2021. The results of the PKL are in the form of a Clinical Service System Website. This was made as an effort to fulfill the requirements for an undergraduate degree. This project is closely related to the UPN Veteran East Java Health Clinic, where the website developed takes into account the phenomena in the field. To find out the extent of the quality of this website, a validation test is carried out, this uses the Blackbox Testing method. 
 
-<br>
+<br><br>
 
-## Team 22 PKL UPN V JATIM
-| NO | NAMA ANGGOTA TIM PKL | NPM |
-| --- | --- | --- |
-| 1 | Heri Khariono | 18081010002 |
-| 2 | Devan Cakra Mudra Wijaya | 18081010013 |
-| 3 | Haidar Ananta Kusuma | 18081010057 |
-| 4 | Rifky Akhmad Fernanda | 18081010126 |
+## Features / Framework / Tools
+| Part | Description |
+| --- | --- |
+| Features | Login, Register, Queue, Export, Graph, Pagination, Search, Create, Read, Update, Delete, Captcha, Access Rights, ETC  |
+| Code | PHP, HTML, CSS, JS, SQL |
+| Framework | Bootstrap 4 |
+| Tools | Visual Studio Code, XAMPP (PHP Version 5+) |
 
-<br>
+<br><br>
+
+## Download & Install
+1.XAMPP with PHP version 7.4 :
+```bash
+https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
+```
+2.Visual Studio Code :
+```bash
+https://code.visualstudio.com/docs/?dv=win
+```
+
+<br><br>
+
+## Internship Team Members
+| NUMBER | FULL NAME | NPM | ROLE |
+| --- | --- | --- | --- |
+| 1 | Heri Khariono | 18081010002 | Frontend |
+| 2 | Devan Cakra Mudra Wijaya | 18081010013 | Frontend |
+| 3 | Haidar Ananta Kusuma | 18081010057 | Backend |
+| 4 | Rifky Akhmad Fernanda | 18081010126 | Fullstack |
+
+<br><br>
+
+## LICENSE
+MIT License - Copyright (c) 2021 - Devan C. M. Wijaya, S.Kom
+
+Permission is hereby granted without charge to any person obtaining a copy of this software and the software-related documentation files to deal in them without restriction, including without limitation the right to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons receiving the Software to be furnished therewith on the following terms:
+
+The above copyright notice and this permission notice must accompany all copies or substantial portions of the Software.
+
+IN ANY EVENT, THE AUTHOR OR COPYRIGHT HOLDER HEREIN RETAINS FULL OWNERSHIP RIGHTS. THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, THEREFORE IF ANY DAMAGE, LOSS, OR OTHERWISE ARISES FROM THE USE OR OTHER DEALINGS IN THE SOFTWARE, THE AUTHOR OR COPYRIGHT HOLDER SHALL NOT BE LIABLE, AS THE USE OF THE SOFTWARE IS NOT COMPELLED AT ALL, SO THE RISK IS YOUR OWN.
