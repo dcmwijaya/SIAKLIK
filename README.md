@@ -169,7 +169,7 @@ localhost/SIAKLIK/
 </tr>
 <tr>
 <td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/8bf109bc-c9f3-4a3d-9f91-ed3d34e5e4a0" alt="admin-menu"></td>
-<td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/8e30c438-9009-452a-80ac-1a329cb57f21" alt="patient-data"></td>
+<td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/659dcf5f-71d1-459b-9796-27e66277adf9" alt="patient-data"></td>
 <td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/c7ddfb5f-4ab2-4eb1-9486-23157e709100" alt="add-patient"></td>
 </tr>
 </table>
