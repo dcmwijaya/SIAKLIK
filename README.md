@@ -42,6 +42,14 @@ localhost/phpmyadmin/
 
 <br><br>
 
+## Default Account
+| Role | Email | Password |
+| --- | --- | --- |
+| Admin | poliklinik@upnvjatim.ac.id | admin123 |
+| User | pasien@gmail.com | pasien123 |
+
+<br><br>
+
 ## Running
 1.Download this repository.<br><br>
 2.Extract the downloaded file.<br><br>
@@ -189,6 +197,7 @@ localhost/SIAKLIK/
 <td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/bef17c45-c873-4831-aaaa-ad52d95adf50" alt="annual-chart"></td>
 </tr>
 </table>
+
 
 <br><br>
 
