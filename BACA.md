@@ -170,7 +170,7 @@ localhost/SIAKLIK/
 <tr>
 <td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/8bf109bc-c9f3-4a3d-9f91-ed3d34e5e4a0" alt="admin-menu"></td>
 <td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/659dcf5f-71d1-459b-9796-27e66277adf9" alt="patient-data"></td>
-<td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/c7ddfb5f-4ab2-4eb1-9486-23157e709100" alt="add-patient"></td>
+<td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/8c0c3edd-39c5-4199-8144-2f28354eae8e" alt="add-patient"></td>
 </tr>
 </table>
 <table>
@@ -180,9 +180,9 @@ localhost/SIAKLIK/
 <th width="280">Hapus Pasien</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/19ca8263-b34b-412e-9132-d8b5984140a1" alt="search-patient"></td>
-<td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/740b44dd-cdad-4a47-8f3b-a52bbf7acb8a" alt="update-patient"></td>
-<td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/57e22278-c270-4058-ac2b-1d7ba871a917" alt="delete-patient"></td>
+<td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/6c441fc8-f229-4db4-8f1e-1820411c63ee" alt="search-patient"></td>
+<td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/1b06d3ec-77ce-4b7a-a3eb-16ad86cfebdd" alt="update-patient"></td>
+<td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/f1df3542-f88a-4333-aa87-c9e6c84f3408" alt="delete-patient"></td>
 </tr>
 </table>
 <table>
