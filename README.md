@@ -181,7 +181,7 @@ localhost/SIAKLIK/
 </tr>
 <tr>
 <td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/19ca8263-b34b-412e-9132-d8b5984140a1" alt="search-patient"></td>
-<td><img src="" alt="update-patient"></td>
+<td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/740b44dd-cdad-4a47-8f3b-a52bbf7acb8a" alt="update-patient"></td>
 <td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/57e22278-c270-4058-ac2b-1d7ba871a917" alt="delete-patient"></td>
 </tr>
 </table>
