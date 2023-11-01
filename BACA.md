@@ -223,7 +223,7 @@ ALTER TABLE your_table AUTO_INCREMENT =1;
 <br><br>
 
 ## LISENSI 
-LISENSI MIT - Hak Cipta (c) 2021 - Devan C. M. Wijaya
+LISENSI MIT - Hak Cipta (c) 2021 - Devan C. M. Wijaya dkk
 
 Dengan ini diberikan izin tanpa biaya kepada siapa pun yang mendapatkan salinan perangkat lunak ini dan file dokumentasi terkait perangkat lunak untuk menggunakannya tanpa batasan, termasuk namun tidak terbatas pada hak untuk menggunakan, menyalin, memodifikasi, menggabungkan, mempublikasikan, mendistribusikan, mensublisensikan, dan/atau menjual salinan Perangkat Lunak ini, dan mengizinkan orang yang menerima Perangkat Lunak ini untuk dilengkapi dengan persyaratan berikut:
 
