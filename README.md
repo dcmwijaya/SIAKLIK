@@ -104,7 +104,7 @@ localhost/SIAKLIK/
 <th colspan="2">Tiered Referral</th>
 </tr>
 <tr>
-<td width="420"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/f29620a6-b7cf-4e9e-b746-f072afc3cf88" alt="rujukan-1"></td>
+<td width="420"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/055f1dfa-e648-4024-ac95-7caa0987a381" alt="rujukan-1"></td>
 <td width="420"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/3d4dc817-bd44-4f4b-aab4-1578569acb5c" alt="rujukan-2"></td>
 </tr>
 </table>
