@@ -202,9 +202,14 @@ localhost/SIAKLIK/
 <th colspan="3">Menu Pasien</th>
 </tr>
 <tr>
-<td width="280"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/da9f428c-1d3a-4628-8389-feb05e675f70" alt="antrian-bpjs"></td>
-<td width="280"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/77cc62f8-b6a6-48a0-a0cb-5aa89628b3bc" alt="antrian-umum"></td>
-<td width="280"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/af3dd03b-4428-4139-81b4-910344fb73bb" alt="antrian-intern"></td>
+<td width="280"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/da9f428c-1d3a-4628-8389-feb05e675f70" alt="antrian-bpjs-card"></td>
+<td width="280"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/77cc62f8-b6a6-48a0-a0cb-5aa89628b3bc" alt="antrian-umum-card"></td>
+<td width="280"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/af3dd03b-4428-4139-81b4-910344fb73bb" alt="antrian-intern-card"></td>
+</tr>
+<tr>
+<td width="280"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/d7aacc6a-22e6-40ad-8ed1-fd0887004f46" alt="antrian-bpjs-view"></td>
+<td width="280"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/a4757225-30e0-4bdd-862e-ae6722e06f2c" alt="antrian-umum-view"></td>
+<td width="280"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/5d963fc7-d90a-4a16-9401-d762b143edcc" alt="antrian-intern-view"></td>
 </tr>
 </table>
 
