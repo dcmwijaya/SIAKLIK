@@ -2,7 +2,7 @@
 $host = "localhost";
 $user = "root";
 $pass = "";
-$name = "id15442615_poliklinikdb";
+$name = "siaklik_db";
 
 
 $con = mysqli_connect($host,$user,$pass,$name) or die(mysqli_error());

@@ -18,7 +18,8 @@
     $code = acakCaptcha();
 
     //kode acak disimpan di dalam session agar data dapat dipassing ke halaman lain
-    $_SESSION["kode"] = $code;
+    $_SESSION["kodepasien"] = $code;
+    $_SESSION["kodeadmin"] = $code;
     
 
     //membuat background

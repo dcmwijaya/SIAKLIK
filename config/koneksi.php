@@ -1,7 +1,7 @@
 <?php
 $username = "root";
 $password = "";
-$namadb = "id15880960_siaklik";
+$namadb = "siaklik_db";
 $koneksi = mysqli_connect("localhost",$username,$password,$namadb);
 
 // Check connection

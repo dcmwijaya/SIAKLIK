@@ -323,8 +323,8 @@ session_start();
                                         <div class="patient-form">
                                             <form class="input-data" action="akses/cek_login.php" method="post" name="patient-form">
                                                 <div class="form-group">
-                                                    <label for="email">Email address</label>
-                                                    <input type="email" class="form-control" id="Patient-email" aria-describedby="emailHelp" placeholder="Enter email" required="" name="patient-email">
+                                                    <label for="text">Email address</label>
+                                                    <input type="email" class="form-control" id="Patient-email" aria-describedby="patient-emailHelp" placeholder="Enter email" required="" name="patient-email">
                                                     <small id="patient-emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
                                                 </div>
                                                 <div class="form-group">
@@ -338,8 +338,8 @@ session_start();
                                                 <input type="text" class="form-control" name="kode" value="" placeholder="Kode captcha" maxlength="5"/>
                                                 </div>
                                                 <div class="form-group form-check">
-                                                    <input type="checkbox" class="form-check-input" id="Patient-check">
-                                                    <label class="form-check-label" for="patient-check" value="ingat-patient">ingat saya</label>
+                                                    <input type="checkbox" class="form-check-input" id="Patient-check" value="ingat-patient">
+                                                    <label class="form-check-label" for="Patient-check">ingat saya</label>
                                                 </div>
                                                 <button type="submit" class="btn btn-primary" name="patient-submit" value="patient-submit">Masuk</button>
                                             </form>
@@ -360,7 +360,7 @@ session_start();
                                                 </div>
                                                 <div class="form-group">
                                                     <label for="password">Password</label>
-                                                    <input class="form-control" id="Klinik-password" placeholder="Password" required="" name="klinik-password" autocomplete="on" type="password">
+                                                    <input type="password" class="form-control" id="Klinik-password" placeholder="Password" required="" name="klinik-password" autocomplete="on">
                                                 </div>
                                                 <div class="form-group">
                                                     <img src="akses/generate.php" alt="captcha">

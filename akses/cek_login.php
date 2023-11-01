@@ -10,11 +10,8 @@ if(isset($_POST['patient-submit'])){
 
 
 //code for captach verification
-  if ($_POST["kode"] != $_SESSION["kode"] OR $_SESSION["kode"]=='')  {
-  	header("location:../index.php?pesan=gagal");
-  }
-
-  else{
+  if ($_POST["kode"] != $_SESSION["kodepasien"] OR $_SESSION["kodepasien"]=='')  {
+	
   	// menangkap data yang dikirim dari form login
 $email = $_POST['patient-email'];
 $secretpassword = $_POST['patient-password'];
@@ -36,6 +33,7 @@ if($cek > 0){
 		// buat session login dan username
 		$_SESSION['loggedin'] = true;
 		$_SESSION['email'] = $email;
+		$_SESSION['level'] = "user";
 		// alihkan ke halaman dashboard admin
 		header("location:../poli/antrian.php");
 	}
@@ -48,14 +46,16 @@ if($cek > 0){
 	header("location:../index.php?pesan=salah");
 }
   }
+  else{
+	header("location:../index.php?pesan=gagal");
+  }
 }
-
 else if(isset($_POST['klinik-submit'])){
 	$_SESSION['klinik-submit']='';
 
 
 //code for captach verification
-  if ($_POST["kode"] != $_SESSION["kode"] OR $_SESSION["kode"]=='')  {
+  if ($_POST["kode"] != $_SESSION["kodeadmin"] OR $_SESSION["kodeadmin"]=='')  {
   	header("location:../index.php?pesan=gagal");
   }
 

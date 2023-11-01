@@ -4,6 +4,13 @@ include("../config/koneksi.php");
 session_start();
 if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true) {
     
+    if (isset($_SESSION['level']) && $_SESSION['level'] == "user") {
+    
+    }
+    else {
+        header("location:../index.php?pesan=error");
+    }
+    
 } else {
     header("location:../index.php?pesan=belumlogin");
 }

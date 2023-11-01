@@ -1,14 +1,13 @@
 -- phpMyAdmin SQL Dump
--- version 4.9.5
+-- version 5.2.0
 -- https://www.phpmyadmin.net/
 --
--- Host: localhost:3306
--- Waktu pembuatan: 12 Jan 2021 pada 03.36
--- Versi server: 10.3.16-MariaDB
--- Versi PHP: 7.3.23
+-- Host: 127.0.0.1
+-- Waktu pembuatan: 01 Nov 2023 pada 13.54
+-- Versi server: 10.4.25-MariaDB
+-- Versi PHP: 7.4.30
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
-SET AUTOCOMMIT = 0;
 START TRANSACTION;
 SET time_zone = "+00:00";
 
@@ -40,12 +39,9 @@ CREATE TABLE `akun_pasien` (
 --
 
 INSERT INTO `akun_pasien` (`email_pasien`, `password_pasien`, `nama_pasien`, `username`) VALUES
-('111@gmail.com', '$2y$10$IzmV6Xuf7xue3HATC8Zwg.uJ4ekhiOo4EDUHUNoPvGQiODVdEjRRO', 'rifky q', 'haha'),
-('abc@gmail.com', '$2y$10$.nAdoJ5EhbPtf8Bx/sJ9COOHwXGYoP9yfg02/8OCvguVcnaAzp04S', 'ab c', 'abc'),
-('pasien@gmail.com', '$2y$10$0dU979jRkMHobLcUgaKgrel3UZPnEALgV.6IjnAnM9U43HPQJVowe', 'as as', 'as'),
-('pasien@ye.com', '$2y$10$CJheA/7xM9NmfIdF.FuAQeIVblwVUyqKtyhItQSiYnVuvtwW7kD.u', 'pasien klinik', 'pasien'),
-('qq@gmail.com', '$2y$10$DqOLzgbpxl7AmzVwZkedmOYrciryOgr6G5rZ4zAqJmWjfG2XiDaJW', 'aa aa', 'aaaw'),
-('tes123@gmail.com', '$2y$10$/FaJGM3ZBxcffU/OqlV0RucbbEw4Wb9inpoLMpjdbFx5PERB.GXx.', 'testing 123', 'test123');
+('pasien2@gmail.com', '$2y$10$CJheA/7xM9NmfIdF.FuAQeIVblwVUyqKtyhItQSiYnVuvtwW7kD.u', 'Heri Khariono', 'haka'),
+('pasien3@gmail.com', '$2y$10$cfottwAMhc0WmcpTQykpmepfTSZH5gR17qMCKLkgLOO.eh.36etJy', 'Selamet Riyadi', 'riyadi'),
+('pasien@gmail.com', '$2y$10$0dU979jRkMHobLcUgaKgrel3UZPnEALgV.6IjnAnM9U43HPQJVowe', 'Bianka Atagina', 'bianka');
 
 -- --------------------------------------------------------
 
@@ -66,7 +62,7 @@ CREATE TABLE `antrian_bpjs` (
 --
 
 INSERT INTO `antrian_bpjs` (`id_antrian`, `kode_antrian`, `nama_pasien`, `tanggal`, `status`) VALUES
-(5, 'A001', 'Haidar', '30-12-2020', 'sedang antri');
+(1, 'A001', 'Bianka Atagina', '30-12-2020', 'sedang antri');
 
 -- --------------------------------------------------------
 
@@ -87,7 +83,7 @@ CREATE TABLE `antrian_internal` (
 --
 
 INSERT INTO `antrian_internal` (`id_antrian`, `kode_antrian`, `nama_pasien`, `tanggal`, `status`) VALUES
-(6, 'C001', 'pc', '30-12-2020', 'sedang antri');
+(1, 'C001', 'Heri Khariono', '30-12-2020', 'sedang antri');
 
 -- --------------------------------------------------------
 
@@ -108,7 +104,7 @@ CREATE TABLE `antrian_umum` (
 --
 
 INSERT INTO `antrian_umum` (`id_antrian`, `kode_antrian`, `nama_pasien`, `tanggal`, `status`) VALUES
-(6, 'B001', 'Hore Kere', '30-12-2020', 'sedang antri');
+(1, 'B001', 'Selamet Riyadi', '30-12-2020', 'sedang antri');
 
 -- --------------------------------------------------------
 
@@ -177,11 +173,9 @@ CREATE TABLE `tabel_pasien` (
 --
 
 INSERT INTO `tabel_pasien` (`id_pasien`, `nama_pasien`, `umur_pasien`, `alamat_pasien`, `pekerjaan_pasien`, `status_pasien`, `jenis_kelamin`, `nip_pasien`, `no_bpjs`, `keterangan`) VALUES
-(1, 'Heri Khariono', 20, 'Lamongan', 'Mahasiswa', 'Sakit', 'L', '18081010002', '0', 'internal'),
-(2, 'Joko Purboyo', 21, 'Perumnas KBD Gresik', 'Staf IT BUMN', 'Berobat', 'L', '99920301295', '20202120', 'eksternal'),
-(3, 'Daniel', 20, 'Sby', '-', '-', 'L', '-', '-', 'eksternal'),
-(4, 'Bianka Atagina', 33, 'Ds mengkudu barat, kec. bangon, kab. siwesi', 'Mahasiswa', 'Mahasiswa', 'P', '', '', 'internal'),
-(5, 'Selamet Riyadi', 40, 'Ds. Deru Kec.Wilangon Kab. Suramadu', 'Wiraswasta', 'Wiraswasta', 'L', '', '', 'eksternal');
+(1, 'Heri Khariono', 20, 'Lamongan', 'Mahasiswa', 'Rawat Inap', 'L', '18081010002', '-', 'internal'),
+(2, 'Bianka Atagina', 22, 'Ds mengkudu barat, kec. bangon, kab. siwesi', 'Mahasiswa', 'Berobat', 'P', '18052010013', '-', 'internal'),
+(3, 'Selamet Riyadi', 40, 'Ds. Deru Kec.Wilangon Kab. Suramadu', 'Wiraswasta', 'Cek Kesehatan Rutin', 'L', '-', '-', 'eksternal');
 
 --
 -- Indexes for dumped tables
@@ -238,19 +232,19 @@ ALTER TABLE `tabel_pasien`
 -- AUTO_INCREMENT untuk tabel `antrian_bpjs`
 --
 ALTER TABLE `antrian_bpjs`
-  MODIFY `id_antrian` int(50) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
+  MODIFY `id_antrian` int(50) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 --
 -- AUTO_INCREMENT untuk tabel `antrian_internal`
 --
 ALTER TABLE `antrian_internal`
-  MODIFY `id_antrian` int(20) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
+  MODIFY `id_antrian` int(20) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 --
 -- AUTO_INCREMENT untuk tabel `antrian_umum`
 --
 ALTER TABLE `antrian_umum`
-  MODIFY `id_antrian` int(20) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
+  MODIFY `id_antrian` int(20) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 --
 -- AUTO_INCREMENT untuk tabel `pengguna`
@@ -262,7 +256,7 @@ ALTER TABLE `pengguna`
 -- AUTO_INCREMENT untuk tabel `tabel_pasien`
 --
 ALTER TABLE `tabel_pasien`
-  MODIFY `id_pasien` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9;
+  MODIFY `id_pasien` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
