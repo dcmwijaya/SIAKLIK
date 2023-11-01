@@ -138,6 +138,16 @@ localhost/SIAKLIK/
 </td>
 </tr>
 </table>
+<table>
+<tr>
+<th colspan="3">Articles</th>
+</tr>
+<tr>
+<td width="280"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/10a51026-c89d-4bb3-9516-48558311c0dd" alt="article-1"></td>
+<td width="280"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/43c2bfdf-55b5-475f-ac45-7234cd355974" alt="article-2"></td>
+<td width="280"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/1d328d7c-fe0e-4df4-ab6c-921f74ca0969" alt="article-3"></td>
+</tr>
+</table>
 
 <br><br>
 
