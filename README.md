@@ -199,7 +199,7 @@ localhost/SIAKLIK/
 </table>
 <table>
 <tr>
-<th colspan="3">Patient menu</th>
+<th colspan="3">Patient Menu</th>
 </tr>
 <tr>
 <td width="280"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/da9f428c-1d3a-4628-8389-feb05e675f70" alt="antrian-bpjs-card"></td>
