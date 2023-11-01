@@ -69,6 +69,7 @@ if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true) {
                     <li class="custom-logo-child">
                         <a class="logo-text custom-text-head" href="../index.php">SIAKLIK<br><span class="span-logo" style="color:white;">SISTEM PELAYANAN KLINIK KESEHATAN</span></a>
                     </li>
+                        <p class="mb-0"><i class="fas fa-circle online-s"></i>Pekerja Klinik</p>
                 </ul>
             </div>
             <ul class="list-unstyled components custom-menu-bar">
