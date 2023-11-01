@@ -153,6 +153,42 @@ localhost/SIAKLIK/
 <td width="280"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/eed72cfd-301a-43cc-b3da-11ed01f984ba" alt="article-6"></td>
 </tr>
 </table>
+<table>
+<tr>
+<th width="280">Admin Menu</th>
+<th width="280">Patient Data</th>
+<th width="280">Add Patient</th>
+</tr>
+<tr>
+<td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/8bf109bc-c9f3-4a3d-9f91-ed3d34e5e4a0" alt="admin-menu"></td>
+<td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/8e30c438-9009-452a-80ac-1a329cb57f21" alt="patient-data"></td>
+<td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/c7ddfb5f-4ab2-4eb1-9486-23157e709100" alt="add-patient"></td>
+</tr>
+</table>
+<table>
+<tr>
+<th width="280">Search Patient</th>
+<th width="280">Update Patient</th>
+<th width="280">Delete Patient</th>
+</tr>
+<tr>
+<td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/19ca8263-b34b-412e-9132-d8b5984140a1" alt="search-patient"></td>
+<td><img src="" alt="update-patient"></td>
+<td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/57e22278-c270-4058-ac2b-1d7ba871a917" alt="delete-patient"></td>
+</tr>
+</table>
+<table>
+<tr>
+<th width="280">Export PDF</th>
+<th width="280">Queue Data</th>
+<th width="280">Annual Chart</th>
+</tr>
+<tr>
+<td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/3ed8baa9-161b-4dcb-8e20-1bd362eccd18" alt="Export PDF"></td>
+<td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/a599a72f-93c0-45ee-8cd3-1ce7d3eb84f2" alt="queue-data"></td>
+<td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/bef17c45-c873-4831-aaaa-ad52d95adf50" alt="annual-chart"></td>
+</tr>
+</table>
 
 <br><br>
 
