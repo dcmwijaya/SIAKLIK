@@ -254,7 +254,7 @@ session_start();
                                 <div class="dropdown-menu dropdown-menu-right custom-icons" aria-labelledby="navbarDropdown">
                                     <a class="dropdown-item custom-dropdown" href="../menu_klinik.php"><i class="fas fa-chalkboard-teacher"></i>Menu Admin</a>
                                     <div class="dropdown-divider"></div>
-                                    <a class="dropdown-item custom-dropdown" href="../poli/antrian.php" target="_blank"><i class="fas fa-user-friends"></i>Antrian Online</a>
+                                    <a class="dropdown-item custom-dropdown" href="../poli/antrian.php" target="_blank"><i class="fas fa-user-friends"></i>Daftar Antrian</a>
                                     <div class="dropdown-divider"></div>
                                     <a class="dropdown-item custom-dropdown" href="../poli/poliumum.php" target="_blank"><i class="fas fa-clinic-medical"></i>Poli Umum</a>
                                     <div class="dropdown-divider"></div>
@@ -383,7 +383,7 @@ session_start();
             <main>
                 <section id="rujukan">
                 <div class="custom-header header-wrapper">
-                    <h4 align="center"><i class="fa fa-hospital" aria-hidden="true"></i>&nbsp;RUJUKAN BERJENJANG KE RUMAH SAKIT</h4><hr>
+                    <h4 align="center"><i class="fas fa-hospital-user" aria-hidden="true"></i>&nbsp;RUJUKAN BERJENJANG KE RUMAH SAKIT</h4><hr>
                 </div>
                     <div class="container-fluid">
                         <div class="row" style="margin:0 auto;">

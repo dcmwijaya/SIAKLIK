@@ -1,7 +1,7 @@
 <?php 
 $host = "localhost";
-$user = "id15442615_poliklinikupnjatim";
-$pass = "Pol1kl1n1k2020$";
+$user = "root";
+$pass = "";
 $name = "id15442615_poliklinikdb";
 
 

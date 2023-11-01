@@ -37,7 +37,7 @@ if(isset($_POST['register'])){
     <link rel="icon" href="../assets/images/logo.ico">
     
     <!-- Desc page -->
-    <title>KLINIK SIAKLIK</title>
+    <title>SIAKLIK</title>
     <meta name="description" content="Website fasilitas dari SIAKLIK">
     <meta name="keywords" content="siaklik, klinik kampus, bpjs" />
     
@@ -109,7 +109,7 @@ if(isset($_POST['register'])){
                             <a href="../poli/poliumum.php"><i class="fas fa-clinic-medical"></i>Poli Umum</a>
                         </li>
                         <li>
-                            <a href="../poli/poli_gigi.php"><i class="fas fa-grimace"></i>Poli Gigi</a>
+                            <a href="../poli/poli_gigi.php"><i class="fas fa-tooth"></i>Poli Gigi</a>
                         </li>
                         <li>
                             <a href="../poli/alurpoli.php"><i class="fas fa-procedures"></i>Informasi & Pelayanan Pasien</a>
@@ -158,31 +158,31 @@ if(isset($_POST['register'])){
                     <a href="#pageArtikel" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fas fa-newspaper"></i>Artikel</a>
                     <ul class="collapse list-unstyled" id="pageArtikel">
                         <li>
-                            <a href="../assets/pdf/HIV.pdf"><i class="fas fa-bookmark"></i>HIV / AIDS</a>
+                            <a href="https://drive.google.com/file/d/1IUDjC2UDmxYaZn8Jzari8G7tagSactuT/preview"><i class="fas fa-bookmark"></i>HIV / AIDS</a>
                         </li>
                         <li>
-                            <a href="../assets/pdf/stroke.pdf"><i class="fas fa-bookmark"></i>STROKE</a>
+                            <a href="https://drive.google.com/file/d/13aN5HJiE0dy-oL_VX7scSd5IIbAyJfL9/preview"><i class="fas fa-bookmark"></i>STROKE</a>
                         </li>
                         <li>
-                            <a href="../assets/pdf/tuberkulosis.pdf"><i class="fas fa-bookmark"></i>TBC / TUBERKULOSIS</a>
+                            <a href="https://drive.google.com/file/d/1L_rULKmC9Lg8PCmSWz2VxJ3XpytEDL4o/preview"><i class="fas fa-bookmark"></i>TBC / TUBERKULOSIS</a>
                         </li>
                         <li>
-                            <a href="../assets/pdf/hepatitis.pdf"><i class="fas fa-bookmark"></i>HEPATITIS</a>
+                            <a href="https://drive.google.com/file/d/1ugoq8IDg2wiIEDX3LCMjDK7863xCdYA0/preview"><i class="fas fa-bookmark"></i>HEPATITIS</a>
                         </li>
                         <li>
-                            <a href="../assets/pdf/diare.pdf"><i class="fas fa-bookmark"></i>DIARE</a>
+                            <a href="https://drive.google.com/file/d/1PpQgSf7SEhG4xo_-KhbGr_RwsXzTzJQr/preview"><i class="fas fa-bookmark"></i>DIARE</a>
                         </li>
                         <li>
-                            <a href="../assets/pdf/pneumonia.pdf"><i class="fas fa-bookmark"></i>PENEUMONIA</a>
+                            <a href="https://drive.google.com/file/d/15MP8PG4tTvAvhI2rAtL94eLkxOX88kxi/preview"><i class="fas fa-bookmark"></i>PENEUMONIA</a>
                         </li>
                         <li>
-                            <a href="../assets/pdf/difteri.pdf"><i class="fas fa-bookmark"></i>DIFTERI</a>
+                            <a href="https://drive.google.com/file/d/16cio4CNtYGz1Q2eht0Z7h8RXt77J50RQ/preview"><i class="fas fa-bookmark"></i>DIFTERI</a>
                         </li>
                         <li>
-                            <a href="../assets/pdf/dbd.pdf"><i class="fas fa-bookmark"></i>DBD / DEMAM BERDARAH DENGUE</a>
+                            <a href="https://drive.google.com/file/d/1XNv2ch2kjCIQZ_1eK2iTu3jnHGp39Pkw/preview"><i class="fas fa-bookmark"></i>DBD / DEMAM BERDARAH DENGUE</a>
                         </li>
                         <li>
-                            <a href="../assets/pdf/kanker.pdf"><i class="fas fa-bookmark"></i>KANKER</a>
+                            <a href="https://drive.google.com/file/d/1jiIc5jOHaAaTKqqtn1-Trpg4XaShhbFx/preview"><i class="fas fa-bookmark"></i>KANKER</a>
                         </li>
                     </ul>
                 </li>
@@ -215,10 +215,10 @@ if(isset($_POST['register'])){
                     <a href="#pageDokter" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fas fa-stethoscope"></i>Dokter</a>
                     <ul class="collapse list-unstyled" id="pageDokter">
                         <li>
-                            <a href="#"><i class="fas fa-user-md"></i>Dokter 1</a>
+                            <a href="#"><i class="fas fa-user-md"></i>dr. RR. HENNY YUNIARTI</a>
                         </li>
                         <li>
-                            <a href="#"><i class="fas fa-user-md"></i>Dokter 2</a>
+                            <a href="#"><i class="fas fa-user-md"></i>drg. IDA APRILIANTI</a>
                         </li>
                     </ul>
                 </li>
@@ -226,10 +226,10 @@ if(isset($_POST['register'])){
                     <a href="#pagePerawat" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fas fa-briefcase-medical"></i>Perawat</a>
                     <ul class="collapse list-unstyled" id="pagePerawat">
                         <li>
-                            <a href="#"><i class="fas fa-user-md"></i>Perawat 1</a>
+                            <a href="#"><i class="fas fa-user-md"></i>MOH TOYYIB,S.Kep</a>
                         </li>
                         <li>
-                            <a href="#"><i class="fas fa-user-md"></i>Perawat 2</a>
+                            <a href="#"><i class="fas fa-user-md"></i>MUFARIDA , Amd.Kep</a>
                         </li>
                     </ul>
                 </li>

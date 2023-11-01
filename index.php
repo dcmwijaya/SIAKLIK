@@ -79,7 +79,7 @@ session_start();
                         </li>
                         <?php endif; ?>
                         <li>
-                            <a href="../menu_klinik.php"><i class="fas fa-book"></i>Menu Admin</a>
+                            <a href="menu_klinik.php"><i class="fas fa-book"></i>Menu Admin</a>
                         </li>
                         <li>
                             <a href="poli/antrian.php"><i class="fas fa-user-friends"></i>Daftar Antrian</a>
@@ -103,31 +103,31 @@ session_start();
                             <a href="#pageGrafik" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="far fa-chart-bar"></i>Data Grafik</a>
                             <ul class="collapse list-unstyled" id="pageGrafik">
                                 <li>
-                                    <a href="../grafik/Grafik-kelamin.php"><i class="fas fa-chart-area"></i>Grafik Kunjungan Berdasarkan Kelamin</a>
+                                    <a href="grafik/Grafik-kelamin.php"><i class="fas fa-chart-area"></i>Grafik Kunjungan Berdasarkan Kelamin</a>
                                 </li>
                                 <li>
-                                    <a href="../grafik/Grafik-2013.php"><i class="fas fa-chart-pie"></i>Grafik Kunjungan Berdasarkan SATKER Tahun 2013</a>
+                                    <a href="grafik/Grafik-2013.php"><i class="fas fa-chart-pie"></i>Grafik Kunjungan Berdasarkan SATKER Tahun 2013</a>
                                 </li>
                                 <li>
-                                    <a href="../grafik/Grafik-2014.php"><i class="fas fa-chart-pie"></i>Grafik Kunjungan Berdasarkan SATKER Tahun 2014</a>
+                                    <a href="grafik/Grafik-2014.php"><i class="fas fa-chart-pie"></i>Grafik Kunjungan Berdasarkan SATKER Tahun 2014</a>
                                 </li>
                                 <li>
-                                    <a href="../grafik/Grafik-2015.php"><i class="fas fa-chart-pie"></i>Grafik Kunjungan Berdasarkan SATKER Tahun 2015</a>
+                                    <a href="grafik/Grafik-2015.php"><i class="fas fa-chart-pie"></i>Grafik Kunjungan Berdasarkan SATKER Tahun 2015</a>
                                 </li>
                                 <li>
-                                    <a href="../grafik/Grafik-2016.php"><i class="fas fa-chart-pie"></i>Grafik Kunjungan Berdasarkan SATKER Tahun 2016</a>
+                                    <a href="grafik/Grafik-2016.php"><i class="fas fa-chart-pie"></i>Grafik Kunjungan Berdasarkan SATKER Tahun 2016</a>
                                 </li>
                                 <li>
-                                    <a href="../grafik/Grafik-2017.php"><i class="fas fa-chart-pie"></i>Grafik Kunjungan Berdasarkan SATKER Tahun 2017</a>
+                                    <a href="grafik/Grafik-2017.php"><i class="fas fa-chart-pie"></i>Grafik Kunjungan Berdasarkan SATKER Tahun 2017</a>
                                 </li>
                                 <li>
-                                    <a href="../grafik/Grafik-2018.php"><i class="fas fa-chart-pie"></i>Grafik Kunjungan Berdasarkan SATKER Tahun 2018</a>
+                                    <a href="grafik/Grafik-2018.php"><i class="fas fa-chart-pie"></i>Grafik Kunjungan Berdasarkan SATKER Tahun 2018</a>
                                 </li>
                                 <li>
-                                    <a href="../grafik/Grafik-2019.php"><i class="fas fa-chart-pie"></i>Grafik Kunjungan Berdasarkan SATKER Tahun 2019</a>
+                                    <a href="grafik/Grafik-2019.php"><i class="fas fa-chart-pie"></i>Grafik Kunjungan Berdasarkan SATKER Tahun 2019</a>
                                 </li>
                                 <li>
-                                    <a href="../grafik/Grafik-2020.php"><i class="fas fa-chart-pie"></i>Grafik Kunjungan Berdasarkan SATKER Tahun 2020</a>
+                                    <a href="grafik/Grafik-2020.php"><i class="fas fa-chart-pie"></i>Grafik Kunjungan Berdasarkan SATKER Tahun 2020</a>
                                 </li>
                             </ul>
                     </ul>
@@ -252,7 +252,7 @@ session_start();
                                 <div class="dropdown-menu dropdown-menu-right custom-icons" aria-labelledby="navbarDropdown">
                                     <a class="dropdown-item custom-dropdown" href="menu_klinik.php"><i class="fas fa-chalkboard-teacher"></i>Menu Admin</a>
                                     <div class="dropdown-divider"></div>
-                                    <a class="dropdown-item custom-dropdown" href="poli/antrian.php" target="_blank"><i class="fas fa-user-friends"></i>Antrian Online</a>
+                                    <a class="dropdown-item custom-dropdown" href="poli/antrian.php" target="_blank"><i class="fas fa-user-friends"></i>Daftar Antrian</a>
                                     <div class="dropdown-divider"></div>
                                     <a class="dropdown-item custom-dropdown" href="poli/poliumum.php" target="_blank"><i class="fas fa-clinic-medical"></i>Poli Umum</a>
                                     <div class="dropdown-divider"></div>
@@ -548,7 +548,7 @@ session_start();
                                                         <div class="card-body">
                                                             <h4 class="card-title">HIV / AIDS</h4>
                                                             <p class="card-text">HIV merupakan singkatan dari Human Immunodeficiency Virus(HIV) merupakan retrovirus yang menjangkiti sel-sel sistem kekebalan tubuh manusia terutama CD4 positif T-sel. . . .</p>
-                                                            <a href="assets/pdf/HIV.pdf">baca selengkapnya</a>
+                                                            <a href="https://drive.google.com/file/d/1IUDjC2UDmxYaZn8Jzari8G7tagSactuT/preview">baca selengkapnya</a>
                                                         </div>
 
                                                     </div>
@@ -559,7 +559,7 @@ session_start();
                                                         <div class="card-body">
                                                             <h4 class="card-title">STROKE</h4>
                                                             <p class="card-text">Stroke adalah penyakit atau gangguan fungsional otak akut fokal maupun global akibat terhambatnya peredaran darah ke otak. Gangguan peredaran darah otak berupa. . . .</p>
-                                                            <a href="assets/pdf/stroke.pdf">baca selengkapnya</a>
+                                                            <a href="https://drive.google.com/file/d/13aN5HJiE0dy-oL_VX7scSd5IIbAyJfL9/preview">baca selengkapnya</a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -569,7 +569,7 @@ session_start();
                                                         <div class="card-body">
                                                             <h4 class="card-title">TBC / TUBERCULOSIS</h4>
                                                             <p class="card-text">Tuberkulosis merupakan infeksi yang disebabkan oleh Mycobacterium tuberculosis yang dapat menyerang pada berbagai organ tubuh mulai dari paru. . . .</p>
-                                                            <a href="assets/pdf/tuberkulosis.pdf">baca selengkapnya</a>
+                                                            <a href="https://drive.google.com/file/d/1L_rULKmC9Lg8PCmSWz2VxJ3XpytEDL4o/preview">baca selengkapnya</a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -584,7 +584,7 @@ session_start();
                                                         <div class="card-body">
                                                             <h4 class="card-title">HEPATITIS</h4>
                                                             <p class="card-text">Hepatitis adalah proses peradangan difus pada sel hati. Hepatitis A adalah hepatitis yang disebabkan oleh infeksi Hepatitis A Virus.15 Infeksi virus hepatitis A dapat menyebabkan macam komplikasi. . . .</p>
-                                                            <a href="assets/pdf/hepatitis.pdf">baca selengkapnya</a>
+                                                            <a href="https://drive.google.com/file/d/1ugoq8IDg2wiIEDX3LCMjDK7863xCdYA0/preview">baca selengkapnya</a>
                                                         </div>
 
                                                     </div>
@@ -595,7 +595,7 @@ session_start();
                                                         <div class="card-body">
                                                             <h4 class="card-title">DIARE</h4>
                                                             <p class="card-text">penyakit diare adalah suatu penyakit yang ditandai dengan perubahan bentuk dan konsistensi tinja yang lembek sampai mencair dan bertambahnya frekuensi buang air besar yang lebih dari biasa, yaitu. . . .</p>
-                                                            <a href="assets/pdf/diare.pdf">baca selengkapnya</a>
+                                                            <a href="https://drive.google.com/file/d/1PpQgSf7SEhG4xo_-KhbGr_RwsXzTzJQr/preview">baca selengkapnya</a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -605,7 +605,7 @@ session_start();
                                                         <div class="card-body">
                                                             <h4 class="card-title">PNEUMONIA</h4>
                                                             <p class="card-text">Pneumonia didefinisikan sebagai suatu peradangan parenkim paru distal dari bronkiolus terminalis yang mencakup bronkiolus respiratorius dan alveoli serta menimbulkan konsolidasi jaringan....</p>
-                                                            <a href="assets/pdf/pneumonia.pdf">baca selengkapnya</a>
+                                                            <a href="https://drive.google.com/file/d/15MP8PG4tTvAvhI2rAtL94eLkxOX88kxi/preview">baca selengkapnya</a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -621,7 +621,7 @@ session_start();
                                                         <div class="card-body">
                                                             <h4 class="card-title">DIFTERI</h4>
                                                             <p class="card-text">Difteri merupakan penyakit infeksi akut yang terutama menyerang tonsil, faring, laring, hidung, dan adakalanya menyerang selaput lendir atau kulit serta kadang pula menyerang. . . .</p>
-                                                            <a href="assets/pdf/difteri.pdf">baca selengkapnya</a>
+                                                            <a href="https://drive.google.com/file/d/16cio4CNtYGz1Q2eht0Z7h8RXt77J50RQ/preview">baca selengkapnya</a>
                                                         </div>
 
                                                     </div>
@@ -632,7 +632,7 @@ session_start();
                                                         <div class="card-body">
                                                           <h5 class="card-title">DBD / DEMAM BERDARAH DENGUE</h5>
                                                           <p class="card-text">Demam berdarah dengue atau DBD merupakan penyakit arbovirus dari keluarga flavivirus yang memiliki empat serotype berbeda (DEN-1, -2, -3, and -4). . . .</p>
-                                                          <a href="assets/pdf/dbd.pdf">baca selengkapnya</a>
+                                                          <a href="https://drive.google.com/file/d/1XNv2ch2kjCIQZ_1eK2iTu3jnHGp39Pkw/preview">baca selengkapnya</a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -642,7 +642,7 @@ session_start();
                                                         <div class="card-body">
                                                           <h5 class="card-title">KANKER</h5>
                                                           <p class="card-text">Kanker adalah istilah yang digunakan untuk suatu kondisi di mana sel telah kehilangan pengendalian dan mekanisme normalnya sehingga mengalami pertumbuhan yang tidak normal. . .</p>
-                                                          <a href="assets/pdf/kanker.pdf">baca selengkapnya</a>
+                                                          <a href="https://drive.google.com/file/d/1jiIc5jOHaAaTKqqtn1-Trpg4XaShhbFx/preview">baca selengkapnya</a>
                                                         </div>
                                                     </div>
                                                 </div>
