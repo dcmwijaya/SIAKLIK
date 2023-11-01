@@ -37,8 +37,8 @@ https://code.visualstudio.com/docs/?dv=win
 ```bash
 localhost/phpmyadmin/
 ```
-3.Buat basis data bernama "id15880960_siaklik" di lokal.<br>
-4.Buka basis data "id15880960_siaklik" dan Impor basis data (id15880960_siaklik.sql) di direktori SIAKLIK/database.
+3.Buat basis data bernama "siaklik_db" di lokal.<br>
+4.Buka basis data "siaklik_db" dan Impor basis data (siaklik_db.sql) di direktori SIAKLIK/database.
 
 <br><br>
 
