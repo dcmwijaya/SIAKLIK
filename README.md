@@ -87,7 +87,7 @@ localhost/SIAKLIK/
 <tr>
 <td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/165b9fe7-fd39-447d-bfb0-6c472d2c06a8" alt="poli-umum"></td>
 <td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/61fed5c4-f7f8-4840-ac3c-eca5d5972b17" alt="poli-gigi"></td>
-<td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/b2a37994-7893-4759-b99c-2f202f8c8bed" alt="info-pelayanan"></td>
+<td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/53316313-203f-42e6-b8e3-23be6c79ab25" alt="info-pelayanan"></td>
 </tr>
 </table>
 <table>
@@ -95,7 +95,7 @@ localhost/SIAKLIK/
 <th colspan="2">Simple Laboratory</th>
 </tr>
 <tr>
-<td width="420"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/1f63362b-729a-4f3b-905f-1bad8e432986" alt="lab-sederhana-1"></td>
+<td width="420"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/8c0cf3f1-f5bf-414e-a5e7-3c22255f6a94" alt="lab-sederhana-1"></td>
 <td width="420"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/ca006b71-43c0-4db8-96fc-4913997a8cfa" alt="lab-sederhana-2"></td>
 </tr>
 </table>
