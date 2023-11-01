@@ -193,7 +193,7 @@ localhost/SIAKLIK/
 </tr>
 <tr>
 <td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/defae9ed-8fe9-4f94-8ddc-424996e6a036" alt="Export PDF"></td>
-<td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/addbbb83-4f3c-4b5f-b01f-f0290620745a" alt="queue-data"></td>
+<td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/ebc76f5f-0992-4cc7-aecc-e58c2b0a0afa" alt="queue-data"></td>
 <td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/bef17c45-c873-4831-aaaa-ad52d95adf50" alt="annual-chart"></td>
 </tr>
 </table>
