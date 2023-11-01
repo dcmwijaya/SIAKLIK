@@ -113,7 +113,7 @@ localhost/SIAKLIK/
 <th colspan="3">Charts</th>
 </tr>
 <tr>
-<td width="280"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/87cbebb1-8aed-4e73-9dd9-80e8b357925e" alt="charts-1"></td>
+<td width="280"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/6e60f5b2-3be0-4c00-bad0-e377341ee6e4" alt="charts-1"></td>
 <td width="280"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/7f8ed7e1-550c-4d40-bffd-b902718cfc8a" alt="charts-2"></td>
 <td width="280"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/c32199e4-fa22-486b-8223-f1d7312677e3" alt="charts-3"></td>
 </tr>
