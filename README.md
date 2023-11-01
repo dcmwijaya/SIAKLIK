@@ -67,6 +67,60 @@ localhost/SIAKLIK/
 
 <br><br>
 
+## Highlights
+<table>
+<tr>
+<th colspan="3">Home</th>
+</tr>
+<tr>
+<td width="280"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/42a7e44f-8059-469c-bb9c-cbb8126b8f5b" alt="header"></td>
+<td width="280"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/43180068-958d-4cbe-be66-e0e3c427b80b" alt="body"></td>
+<td width="280"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/2f33ac53-1d10-4ecb-b202-d7c7b169670a" alt="footer"></td>
+</tr>
+</table>
+<table>
+<tr>
+<th width="280">General Poly</th>
+<th width="280">Dental Poly</th>
+<th width="280">Patient Information & Services</th>
+</tr>
+<tr>
+<td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/165b9fe7-fd39-447d-bfb0-6c472d2c06a8" alt="poli-umum"></td>
+<td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/61fed5c4-f7f8-4840-ac3c-eca5d5972b17" alt="poli-gigi"></td>
+<td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/b2a37994-7893-4759-b99c-2f202f8c8bed" alt="info-pelayanan"></td>
+</tr>
+</table>
+<table>
+<tr>
+<th colspan="2">Simple Laboratory</th>
+</tr>
+<tr>
+<td width="420"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/1f63362b-729a-4f3b-905f-1bad8e432986" alt="lab-sederhana-1"></td>
+<td width="420"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/ca006b71-43c0-4db8-96fc-4913997a8cfa" alt="lab-sederhana-2"></td>
+</tr>
+</table>
+<table>
+<tr>
+<th colspan="2">Tiered Referral</th>
+</tr>
+<tr>
+<td width="420"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/f29620a6-b7cf-4e9e-b746-f072afc3cf88" alt="rujukan-1"></td>
+<td width="420"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/3d4dc817-bd44-4f4b-aab4-1578569acb5c" alt="rujukan-2"></td>
+</tr>
+</table>
+<table>
+<tr>
+<th colspan="3">Charts</th>
+</tr>
+<tr>
+<td width="280"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/87cbebb1-8aed-4e73-9dd9-80e8b357925e" alt="charts-1"></td>
+<td width="280"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/7f8ed7e1-550c-4d40-bffd-b902718cfc8a" alt="charts-2"></td>
+<td width="280"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/c32199e4-fa22-486b-8223-f1d7312677e3" alt="charts-3"></td>
+</tr>
+</table>
+
+<br><br>
+
 ## LICENSE
 MIT License - Copyright (c) 2021 - Devan C. M. Wijaya, S.Kom
 
