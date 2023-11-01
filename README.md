@@ -37,8 +37,8 @@ https://code.visualstudio.com/docs/?dv=win
 ```bash
 localhost/phpmyadmin/
 ```
-3.Create a database called "id15880960_siaklik" on local.<br>
-4.Open the "id15880960_siaklik" database and Import the database (id15880960_siaklik.sql) in the SIAKLIK/database directory.
+3.Create a database called "siaklik_db" on local.<br>
+4.Open the "siaklik_db" database and Import the database (siaklik_db.sql) in the SIAKLIK/database directory.
 
 <br><br>
 
