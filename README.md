@@ -147,6 +147,11 @@ localhost/SIAKLIK/
 <td width="280"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/43c2bfdf-55b5-475f-ac45-7234cd355974" alt="article-2"></td>
 <td width="280"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/1d328d7c-fe0e-4df4-ab6c-921f74ca0969" alt="article-3"></td>
 </tr>
+<tr>
+<td width="280"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/67b881fc-96ac-4dd2-aca2-05044cf1c7b1" alt="article-4"></td>
+<td width="280"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/f98ff078-89ef-43e1-9e90-3b8bbeff0c0f" alt="article-5"></td>
+<td width="280"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/eed72cfd-301a-43cc-b3da-11ed01f984ba" alt="article-6"></td>
+</tr>
 </table>
 
 <br><br>
