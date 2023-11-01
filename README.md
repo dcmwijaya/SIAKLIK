@@ -198,6 +198,17 @@ localhost/SIAKLIK/
 </tr>
 </table>
 
+<br><br>
+
+## Reminder
+1.You can see the shortcomings of this website in the patient data update section. In that section, it still does not display the value obtained from the database, so it feels less user friendly.<br><br>
+2.If the database auto-increment is still not in order, then you can do the following in phpMyAdmin:<br>
+
+```bash
+SET  @num := 0;
+UPDATE your_table SET id = @num := (@num+1);
+ALTER TABLE your_table AUTO_INCREMENT =1;
+```
 
 <br><br>
 
