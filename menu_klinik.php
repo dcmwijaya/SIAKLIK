@@ -1,5 +1,5 @@
 <?php
-include("../config/koneksi.php");
+include("config/koneksi.php");
 
 session_start();
 if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true) {
@@ -210,10 +210,10 @@ if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true) {
                     <a href="#pageDokter" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fas fa-stethoscope"></i>Dokter</a>
                     <ul class="collapse list-unstyled" id="pageDokter">
                         <li>
-                            <a href="#"><i class="fas fa-user-md"></i>dr. RR. HENNY YUNIAR</a>
+                            <a href="#"><i class="fas fa-user-md" style="color:white;"></i>dr. RR. HENNY YUNIAR</a>
                         </li>
                         <li>
-                            <a href="#"><i class="fas fa-user-md"></i>Drg. IDA APRILIANTI</a>
+                            <a href="#"><i class="fas fa-user-md" style="color:white;"></i>Drg. IDA APRILIANTI</a>
                         </li>
                     </ul>
                 </li>
@@ -221,10 +221,10 @@ if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true) {
                     <a href="#pagePerawat" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fas fa-briefcase-medical"></i>Perawat</a>
                     <ul class="collapse list-unstyled" id="pagePerawat">
                         <li>
-                            <a href="#"><i class="fas fa-user-md"></i>MOH TOYYIB,S.Kep</a>
+                            <a href="#"><i class="fas fa-user-md" style="color:white;"></i>MOH TOYYIB,S.Kep</a>
                         </li>
                         <li>
-                            <a href="#"><i class="fas fa-user-md"></i>MUFARIDA,Amd.Kep</a>
+                            <a href="#"><i class="fas fa-user-md" style="color:white;"></i>MUFARIDA,Amd.Kep</a>
                         </li>
                     </ul>
                 </li>
