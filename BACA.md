@@ -31,6 +31,32 @@ https://code.visualstudio.com/docs/?dv=win
 
 <br><br>
 
+## Basis data
+1.Buka XAMPP, lalu tekan tombol mulai di bagian Apache & MySQL. Hal ini bertujuan untuk dapat mendukung website secara optimal.<br>
+2.Akses peramban terlebih dahulu untuk membuka panel admin basis data, silakan salin tautan berikut:
+```bash
+localhost/phpmyadmin/
+```
+3.Buat basis data bernama "id15880960_siaklik" di lokal.<br>
+4.Buka basis data "id15880960_siaklik" dan Impor basis data (id15880960_siaklik.sql) di direktori SIAKLIK/database.
+
+<br><br>
+
+## Menjalankan
+1.Unduh repositori ini.<br><br>
+2.Ekstrak file yang diunduh.<br><br>
+3.Pindahkan direktori "SIAKLIK" ke dalam direktori htdocs, yang detailnya dapat Anda lihat sebagai berikut:
+```bash
+C:\xampp\htdocs
+```
+4.Silakan buka peramban Anda dengan menuliskan:
+```bash
+localhost/SIAKLIK/
+```
+5.Silakan masuk dan akses fitur-fiturnya, selamat menikmati [Selesai].
+
+<br><br>
+
 ## Anggota Tim Magang
 | NOMOR | NAMA LENGKAP | NPM | PERAN |
 | --- | --- | --- | --- |
