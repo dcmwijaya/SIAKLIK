@@ -31,6 +31,32 @@ https://code.visualstudio.com/docs/?dv=win
 
 <br><br>
 
+## Database
+1.Open XAMPP, then start the Apache & MySQL section. This aims to be able to support the website optimally.<br>
+2.Access the browser first in order to open the database admin panel, please copy the following link:
+```bash
+localhost/phpmyadmin/
+```
+3.Create a database called "id15880960_siaklik" on local.<br>
+4.Open the "id15880960_siaklik" database and Import the database (id15880960_siaklik.sql) in the SIAKLIK/database directory.
+
+<br><br>
+
+## Running
+1.Download this repository.<br><br>
+2.Extract the downloaded file.<br><br>
+3.Move the "SIAKLIK" directory into the htdocs directory, whose details you can find out as follows:
+```bash
+C:\xampp\htdocs
+```
+4.Please open your browser by writing:
+```bash
+localhost/SIAKLIK/
+```
+5.Please login and access the features, enjoy [Done].
+
+<br><br>
+
 ## Internship Team Members
 | NUMBER | FULL NAME | NPM | ROLE |
 | --- | --- | --- | --- |
