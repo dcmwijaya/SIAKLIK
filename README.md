@@ -197,6 +197,16 @@ localhost/SIAKLIK/
 <td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/bef17c45-c873-4831-aaaa-ad52d95adf50" alt="annual-chart"></td>
 </tr>
 </table>
+<table>
+<tr>
+<th colspan="3">Patient menu</th>
+</tr>
+<tr>
+<td width="280"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/da9f428c-1d3a-4628-8389-feb05e675f70" alt="antrian-bpjs"></td>
+<td width="280"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/77cc62f8-b6a6-48a0-a0cb-5aa89628b3bc" alt="antrian-umum"></td>
+<td width="280"><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/af3dd03b-4428-4139-81b4-910344fb73bb" alt="antrian-intern"></td>
+</tr>
+</table>
 
 <br><br>
 
