@@ -192,7 +192,7 @@ localhost/SIAKLIK/
 <th width="280">Grafik Tahunan</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/3ed8baa9-161b-4dcb-8e20-1bd362eccd18" alt="Export PDF"></td>
+<td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/defae9ed-8fe9-4f94-8ddc-424996e6a036" alt="Export PDF"></td>
 <td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/a599a72f-93c0-45ee-8cd3-1ce7d3eb84f2" alt="queue-data"></td>
 <td><img src="https://github.com/devancakra/SIAKLIK/assets/54527592/bef17c45-c873-4831-aaaa-ad52d95adf50" alt="annual-chart"></td>
 </tr>
