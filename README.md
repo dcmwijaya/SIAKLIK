@@ -37,7 +37,7 @@ We worked on this PKL from 2020 to 2021. The results of the PKL are in the form 
 ## Database
 1. Open ``` XAMPP ```, then start the ``` Apache ``` & ``` MySQL ``` section. This aims to be able to support the website optimally.
    
-2. Access the browser first in order to open the database admin panel, please copy the following link: ``` localhost/phpmyadmin/ ```.
+2. Access the ``` browser ``` first in order to open the database admin panel, please copy the following link: ``` localhost/phpmyadmin/ ```.
  
 3. Create a database called ``` siaklik_db ``` on local.
 
