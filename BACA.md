@@ -37,7 +37,7 @@ PKL ini kami kerjakan dari tahun 2020 hingga 2021. Hasil dari PKL tersebut berup
 ## Basis data
 1. Buka ``` XAMPP ```, lalu tekan tombol mulai di bagian ``` Apache ``` & ``` MySQL ```. Hal ini bertujuan untuk dapat mendukung website secara optimal.
 
-2. Akses peramban terlebih dahulu untuk membuka panel admin basis data, silakan salin tautan berikut: ``` localhost/phpmyadmin/ ```.
+2. Akses ``` peramban ``` terlebih dahulu untuk membuka panel admin basis data, silakan salin tautan berikut: ``` localhost/phpmyadmin/ ```.
    
 3. Buat basis data bernama ``` siaklik_db ``` di lokal.
    
