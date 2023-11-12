@@ -20,25 +20,28 @@ We worked on this PKL from 2020 to 2021. The results of the PKL are in the form 
 <br><br>
 
 ## Download & Install
-1.XAMPP with PHP version 7.4 :
-```bash
-https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
-```
-2.Visual Studio Code :
-```bash
-https://code.visualstudio.com/docs/?dv=win
-```
+1. XAMPP with PHP version 7.4 :
+
+   ```bash
+   https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
+   ```
+   
+2. Visual Studio Code :
+
+   ```bash
+   https://code.visualstudio.com/docs/?dv=win
+   ```
 
 <br><br>
 
 ## Database
-1.Open XAMPP, then start the Apache & MySQL section. This aims to be able to support the website optimally.<br>
-2.Access the browser first in order to open the database admin panel, please copy the following link:
-```bash
-localhost/phpmyadmin/
-```
-3.Create a database called "siaklik_db" on local.<br>
-4.Open the "siaklik_db" database and Import the database (siaklik_db.sql) in the SIAKLIK/database directory.
+1. Open ``` XAMPP ```, then start the ``` Apache ``` & ``` MySQL ``` section. This aims to be able to support the website optimally.
+   
+2. Access the browser first in order to open the database admin panel, please copy the following link: ``` localhost/phpmyadmin/ ```.
+ 
+3. Create a database called ``` siaklik_db ``` on local.
+
+4. Open the ``` siaklik_db ``` database and Import ``` siaklik_db.sql ``` in the ``` SIAKLIK/database ``` directory.
 
 <br><br>
 
@@ -50,18 +53,20 @@ localhost/phpmyadmin/
 
 <br><br>
 
-## Running
-1.Download this repository.<br><br>
-2.Extract the downloaded file.<br><br>
-3.Move the "SIAKLIK" directory into the htdocs directory, whose details you can find out as follows:
-```bash
-C:\xampp\htdocs
-```
-4.Please open your browser by writing:
-```bash
-localhost/SIAKLIK/
-```
-5.Please login and access the features, enjoy [Done].
+## Get Started
+1. Download this repository.
+
+2. Extract the downloaded file.
+
+3. Move the ``` SIAKLIK ``` directory into the ``` htdocs ``` directory, whose details you can find out as follows: ``` C:\xampp\htdocs ```.
+   
+4. Please open your ``` browser ``` by writing:
+
+   ```bash
+   localhost/SIAKLIK/
+   ```
+   
+5. Please login and access the features, enjoy [Done].
 
 <br><br>
 
@@ -216,14 +221,19 @@ localhost/SIAKLIK/
 <br><br>
 
 ## Reminder
-1.You can see the shortcomings of this website in the patient data update section. In that section, it still does not display the value obtained from the database, so it feels less user friendly.<br><br>
-2.If the database auto-increment is still not in order, then you can do the following in phpMyAdmin:<br>
+1. You can see the shortcomings of this website in the patient data update section. In that section, it still does not display the value obtained from the database, so it feels less user friendly.<br><br>
+2. If the database auto-increment is still not in order, then you can do the following in phpMyAdmin:<br>
 
 ```bash
 SET  @num := 0;
 UPDATE your_table SET id = @num := (@num+1);
 ALTER TABLE your_table AUTO_INCREMENT =1;
 ```
+
+<br><br>
+
+## Disclaimer
+This application has been created by including third-party sources. Third parties here are service providers, whose services are in the form of libraries, frameworks, and others. I thank you very much for the service. It has proven to be very helpful and implementable.
 
 <br><br>
 
