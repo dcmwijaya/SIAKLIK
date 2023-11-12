@@ -25,7 +25,7 @@ We worked on this PKL from 2020 to 2021. The results of the PKL are in the form 
    ```bash
    https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
    ```
-   
+   <br>
 2. Visual Studio Code :
 
    ```bash
@@ -222,13 +222,13 @@ We worked on this PKL from 2020 to 2021. The results of the PKL are in the form 
 
 ## Reminder
 1. You can see the shortcomings of this website in the patient data update section. In that section, it still does not display the value obtained from the database, so it feels less user friendly.<br><br>
-2. If the database auto-increment is still not in order, then you can do the following in phpMyAdmin:<br>
+2. If the database auto-increment is still not in order, then you can do the following in phpMyAdmin:
 
-```bash
-SET  @num := 0;
-UPDATE your_table SET id = @num := (@num+1);
-ALTER TABLE your_table AUTO_INCREMENT =1;
-```
+   ```bash
+   SET  @num := 0;
+   UPDATE your_table SET id = @num := (@num+1);
+   ALTER TABLE your_table AUTO_INCREMENT =1;
+   ```
 
 <br><br>
 
