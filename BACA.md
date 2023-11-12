@@ -20,25 +20,28 @@ PKL ini kami kerjakan dari tahun 2020 hingga 2021. Hasil dari PKL tersebut berup
 <br><br>
 
 ## Unduh & Instal
-1.XAMPP dengan PHP versi 7.4 :
-```bash
-https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
-```
-2.Visual Studio Code :
-```bash
-https://code.visualstudio.com/docs/?dv=win
-```
+1. XAMPP dengan PHP versi 7.4 :
+
+   ```bash
+   https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
+   ```
+   <br>
+2. Visual Studio Code :
+   
+   ```bash
+   https://code.visualstudio.com/docs/?dv=win
+   ```
 
 <br><br>
 
 ## Basis data
-1.Buka XAMPP, lalu tekan tombol mulai di bagian Apache & MySQL. Hal ini bertujuan untuk dapat mendukung website secara optimal.<br>
-2.Akses peramban terlebih dahulu untuk membuka panel admin basis data, silakan salin tautan berikut:
-```bash
-localhost/phpmyadmin/
-```
-3.Buat basis data bernama "siaklik_db" di lokal.<br>
-4.Buka basis data "siaklik_db" dan Impor basis data (siaklik_db.sql) di direktori SIAKLIK/database.
+1. Buka ``` XAMPP ```, lalu tekan tombol mulai di bagian ``` Apache ``` & ``` MySQL ```. Hal ini bertujuan untuk dapat mendukung website secara optimal.
+
+2. Akses peramban terlebih dahulu untuk membuka panel admin basis data, silakan salin tautan berikut: ``` localhost/phpmyadmin/ ```.
+   
+3. Buat basis data bernama ``` siaklik_db ``` di lokal.
+   
+4. Buka basis data ``` siaklik_db ``` dan Impor ``` siaklik_db.sql ``` di direktori ``` SIAKLIK/database ```.
 
 <br><br>
 
@@ -50,18 +53,20 @@ localhost/phpmyadmin/
 
 <br><br>
 
-## Menjalankan
-1.Unduh repositori ini.<br><br>
-2.Ekstrak file yang diunduh.<br><br>
-3.Buka direktori "SIAKLIK" ke dalam direktori htdocs, yang rinciannya dapat Anda lihat sebagai berikut:
-```bash
-C:\xampp\htdocs
-```
-4.Silakan buka peramban Anda dengan menuliskan:
-```bash
-localhost/SIAKLIK/
-```
-5.Silakan masuk dan akses fitur-fiturnya, selamat menikmati [Selesai].
+## Memulai
+1. Unduh repositori ini.
+
+2. Ekstrak file yang diunduh.
+   
+3. Buka direktori ``` SIAKLIK ``` ke dalam direktori ``` htdocs ```, yang rinciannya dapat anda lihat sebagai berikut: ``` C:\xampp\htdocs ```.
+   
+4. Silakan buka ``` peramban ``` anda dengan menuliskan:
+
+   ```bash
+   localhost/SIAKLIK/
+   ```
+   
+5. Silakan masuk dan akses fitur-fiturnya, selamat menikmati [Selesai].
 
 <br><br>
 
@@ -216,14 +221,19 @@ localhost/SIAKLIK/
 <br><br>
 
 ## Pengingat
-1.Anda dapat melihat kekurangan dari website ini pada bagian update data pasien. Pada bagian tersebut, masih belum menampilkan nilai yang didapat dari database, sehingga dirasa kurang nyaman bagi pengguna.<br><br>
-2.Jika penambahan otomatis basis data masih belum beres, maka Anda dapat melakukan hal berikut ini di phpMyAdmin:<br>
+1. Anda dapat melihat kekurangan dari website ini pada bagian update data pasien. Pada bagian tersebut, masih belum menampilkan nilai yang didapat dari database, sehingga dirasa kurang nyaman bagi pengguna.<br><br>
+2. Jika penambahan otomatis basis data masih belum beres, maka Anda dapat melakukan hal berikut ini di phpMyAdmin:
 
-```bash
-SET  @num := 0;
-UPDATE your_table SET id = @num := (@num+1);
-ALTER TABLE your_table AUTO_INCREMENT =1;
-```
+   ```bash
+   SET  @num := 0;
+   UPDATE your_table SET id = @num := (@num+1);
+   ALTER TABLE your_table AUTO_INCREMENT =1;
+   ```
+
+<br><br>
+
+## Penafian
+Aplikasi ini dibuat dengan menyertakan sumber-sumber dari pihak ketiga. Pihak ketiga di sini adalah penyedia layanan, yang layanannya berupa pustaka, kerangka kerja, dan lain-lain. Saya ucapkan terima kasih banyak atas layanannya. Telah terbukti sangat membantu dan dapat diimplementasikan.
 
 <br><br>
 
