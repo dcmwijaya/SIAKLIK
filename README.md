@@ -9,7 +9,7 @@ We worked on this PKL from 2020 to 2021. The results of the PKL are in the form 
 
 <br><br>
 
-## Features / Framework / Tools
+## Project Requirements
 | Part | Description |
 | --- | --- |
 | Features | Login, Register, Queue, Export, Graph, Pagination, Search, Create, Read, Update, Delete, Captcha, Access Rights, ETC  |
