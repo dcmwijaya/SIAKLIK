@@ -9,7 +9,7 @@ PKL ini kami kerjakan dari tahun 2020 hingga 2021. Hasil dari PKL tersebut berup
 
 <br><br>
 
-## Fitur / Kerangka Kerja / Peralatan
+## Kebutuhan Proyek
 | Bagian | Deskripsi |
 | --- | --- |
 | Fitur | Masuk, Pendaftaran, Antrian, Ekspor, Grafik, Paginasi, Pencarian, Buat, Baca, Perbarui, Hapus, Captcha, Hak Akses, DLL  |
