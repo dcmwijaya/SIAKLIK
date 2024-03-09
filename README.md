@@ -23,26 +23,34 @@ We worked on this PKL from 2020 to 2021. The results of the PKL are in the form 
 <br><br>
 
 ## Download & Install
-1. XAMPP with PHP version 7.4 :
+1. XAMPP with PHP version 7.4
 
-   ```bash
+   <table><tr><td width="810">
+
+   ```
    https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
    ```
-   <br>
-2. Visual Studio Code :
 
-   ```bash
+   </td></tr></table><br>
+   
+2. Visual Studio Code
+
+   <table><tr><td width="810">
+
+   ```
    https://code.visualstudio.com/docs/?dv=win
    ```
+
+   </td></tr></table>
 
 <br><br>
 
 ## Database
-1. Open ``` XAMPP ```, then start the ``` Apache ``` & ``` MySQL ``` section. This aims to be able to support the website optimally.
+1. Open ``` XAMPP ```, then start the ``` Apache ``` & ``` MySQL ``` section. This aims to be able to support the website optimally.<br><br>
    
-2. Access the ``` browser ``` first in order to open the database admin panel, please copy the following link: ``` localhost/phpmyadmin/ ```.
+2. Access the ``` browser ``` first in order to open the database admin panel, please copy the following link: ``` localhost/phpmyadmin/ ```.<br><br>
  
-3. Create a database called ``` siaklik_db ``` on local.
+3. Create a database called ``` siaklik_db ``` on local.<br><br>
 
 4. Open the ``` siaklik_db ``` database and Import ``` siaklik_db.sql ``` in the ``` SIAKLIK/database ``` directory.
 
@@ -57,17 +65,13 @@ We worked on this PKL from 2020 to 2021. The results of the PKL are in the form 
 <br><br>
 
 ## Get Started
-1. Download this repository.
+1. Download this repository.<br><br>
 
-2. Extract the downloaded file.
+2. Extract the downloaded file.<br><br>
 
-3. Move the ``` SIAKLIK ``` directory into the ``` htdocs ``` directory, whose details you can find out as follows: ``` C:\xampp\htdocs ```.
+3. Move the ``` SIAKLIK ``` directory into the ``` htdocs ``` directory, whose details you can find out as follows: ``` C:\xampp\htdocs ```.<br><br>
    
-4. Please open your ``` browser ``` by writing:
-
-   ```bash
-   localhost/SIAKLIK/
-   ```
+4. Please open your ``` browser ``` by writing: ``` localhost/SIAKLIK/ ```.<br><br>
    
 5. Please login and access the features, enjoy [Done].
 
@@ -225,13 +229,17 @@ We worked on this PKL from 2020 to 2021. The results of the PKL are in the form 
 
 ## Reminder
 1. You can see the shortcomings of this website in the patient data update section. In that section, it still does not display the value obtained from the database, so it feels less user friendly.<br><br>
+
 2. If the database auto-increment is still not in order, then you can do the following in phpMyAdmin:
 
-   ```bash
-   SET  @num := 0;
-   UPDATE your_table SET id = @num := (@num+1);
-   ALTER TABLE your_table AUTO_INCREMENT =1;
-   ```
+   <table><tr><td width="810">
+      
+      ```sql
+      SET  @num := 0;
+      UPDATE your_table SET id = @num := (@num+1);
+      ALTER TABLE your_table AUTO_INCREMENT =1;
+      ```
+   </td></tr></table>
 
 <br><br>
 
