@@ -230,7 +230,7 @@ PKL ini kami kerjakan dari tahun 2020 hingga 2021. Hasil dari PKL tersebut berup
 ## Pengingat
 1. Anda dapat melihat kekurangan dari website ini pada bagian update data pasien. Pada bagian tersebut, masih belum menampilkan nilai yang didapat dari database, sehingga dirasa kurang nyaman bagi pengguna.<br><br>
 
-2. Jika penambahan otomatis basis data masih belum beres, maka Anda dapat melakukan hal berikut ini di phpMyAdmin:
+2. Jika penambahan otomatis basis data masih belum beres, maka anda dapat melakukan hal berikut ini di phpMyAdmin:
 
    <table><tr><td width="810">
       
