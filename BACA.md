@@ -23,26 +23,34 @@ PKL ini kami kerjakan dari tahun 2020 hingga 2021. Hasil dari PKL tersebut berup
 <br><br>
 
 ## Unduh & Instal
-1. XAMPP dengan PHP versi 7.4 :
+1. XAMPP with PHP version 7.4
 
-   ```bash
+   <table><tr><td width="810">
+
+   ```
    https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
    ```
-   <br>
-2. Visual Studio Code :
+
+   </td></tr></table><br>
    
-   ```bash
+2. Visual Studio Code
+
+   <table><tr><td width="810">
+
+   ```
    https://code.visualstudio.com/docs/?dv=win
    ```
+
+   </td></tr></table>
 
 <br><br>
 
 ## Basis data
-1. Buka ``` XAMPP ```, lalu tekan tombol mulai di bagian ``` Apache ``` & ``` MySQL ```. Hal ini bertujuan untuk dapat mendukung website secara optimal.
+1. Buka ``` XAMPP ```, lalu tekan tombol mulai di bagian ``` Apache ``` & ``` MySQL ```. Hal ini bertujuan untuk dapat mendukung website secara optimal.<br><br>
 
-2. Akses ``` peramban ``` terlebih dahulu untuk membuka panel admin basis data, silakan salin tautan berikut: ``` localhost/phpmyadmin/ ```.
+2. Akses ``` peramban ``` terlebih dahulu untuk membuka panel admin basis data, silakan salin tautan berikut: ``` localhost/phpmyadmin/ ```.<br><br>
    
-3. Buat basis data bernama ``` siaklik_db ``` di lokal.
+3. Buat basis data bernama ``` siaklik_db ``` di lokal.<br><br>
    
 4. Buka basis data ``` siaklik_db ``` dan Impor ``` siaklik_db.sql ``` di direktori ``` SIAKLIK/database ```.
 
@@ -57,17 +65,13 @@ PKL ini kami kerjakan dari tahun 2020 hingga 2021. Hasil dari PKL tersebut berup
 <br><br>
 
 ## Memulai
-1. Unduh repositori ini.
+1. Unduh repositori ini.<br><br>
 
-2. Ekstrak file yang diunduh.
+2. Ekstrak file yang diunduh.<br><br>
    
-3. Buka direktori ``` SIAKLIK ``` ke dalam direktori ``` htdocs ```, yang rinciannya dapat anda lihat sebagai berikut: ``` C:\xampp\htdocs ```.
+3. Buka direktori ``` SIAKLIK ``` ke dalam direktori ``` htdocs ```, yang rinciannya dapat anda lihat sebagai berikut: ``` C:\xampp\htdocs ```.<br><br>
    
-4. Silakan buka ``` peramban ``` anda dengan menuliskan:
-
-   ```bash
-   localhost/SIAKLIK/
-   ```
+4. Silakan buka ``` peramban ``` anda dengan menuliskan: ``` localhost/SIAKLIK/ ```.<br><br>
    
 5. Silakan masuk dan akses fitur-fiturnya, selamat menikmati [Selesai].
 
@@ -225,13 +229,22 @@ PKL ini kami kerjakan dari tahun 2020 hingga 2021. Hasil dari PKL tersebut berup
 
 ## Pengingat
 1. Anda dapat melihat kekurangan dari website ini pada bagian update data pasien. Pada bagian tersebut, masih belum menampilkan nilai yang didapat dari database, sehingga dirasa kurang nyaman bagi pengguna.<br><br>
+
 2. Jika penambahan otomatis basis data masih belum beres, maka Anda dapat melakukan hal berikut ini di phpMyAdmin:
 
-   ```bash
-   SET  @num := 0;
-   UPDATE your_table SET id = @num := (@num+1);
-   ALTER TABLE your_table AUTO_INCREMENT =1;
-   ```
+   <table><tr><td width="810">
+      
+      ```sql
+      SET  @num := 0;
+      UPDATE your_table SET id = @num := (@num+1);
+      ALTER TABLE your_table AUTO_INCREMENT =1;
+      ```
+   </td></tr></table>
+
+<br><br>
+
+## Apresiasi
+Jika anda merasa karya ini bermanfaat, dukunglah karya ini sebagai bentuk apresiasi kepada penulis dengan cara mengeklik tombol ``` ⭐Bintang ```.
 
 <br><br>
 
