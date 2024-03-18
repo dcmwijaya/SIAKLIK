@@ -244,7 +244,7 @@ We worked on this PKL from 2020 to 2021. The results of the PKL are in the form 
 <br><br>
 
 ## Appreciation
-If you find this work useful, please support it as a token of appreciation to the author by clicking the ``` ⭐Star ``` button.
+If this work is useful to you, then support this work as a form of appreciation to the author by clicking the ``` ⭐Star ``` button at the top of the repository.
 
 <br><br>
 
