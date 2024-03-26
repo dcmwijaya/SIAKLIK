@@ -15,7 +15,7 @@ We worked on this PKL from 2020 to 2021. The results of the PKL are in the form 
 ## Project Requirements
 | Part | Description |
 | --- | --- |
-| Features | Login, Register, Queue, Export, Graph, Pagination, Search, Create, Read, Update, Delete, Captcha, Access Rights, ETC  |
+| Features | Login, Register, Queue, Export, Chart, Pagination, Search, Create, Read, Update, Delete, Captcha, Access Rights, ETC  |
 | Code | PHP, HTML, CSS, JS, SQL |
 | Framework | Bootstrap 4 |
 | Tools | Visual Studio Code, XAMPP (PHP Version 5+) |
