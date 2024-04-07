@@ -23,12 +23,12 @@ PKL ini kami kerjakan dari tahun 2020 hingga 2021. Hasil dari PKL tersebut berup
 <br><br>
 
 ## Unduh & Instal
-1. XAMPP with PHP version 7.4
+1. XAMPP dengan PHP versi 7.4
 
    <table><tr><td width="810">
 
    ```
-   https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
+   https://bit.ly/XAMPP_PHP7_Installer
    ```
 
    </td></tr></table><br>
@@ -38,7 +38,7 @@ PKL ini kami kerjakan dari tahun 2020 hingga 2021. Hasil dari PKL tersebut berup
    <table><tr><td width="810">
 
    ```
-   https://code.visualstudio.com/docs/?dv=win
+   https://bit.ly/VScode_Installer
    ```
 
    </td></tr></table>
