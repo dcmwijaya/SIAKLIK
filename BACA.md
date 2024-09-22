@@ -1,11 +1,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/SIAKLIK)
-![PKL](https://img.shields.io/badge/Project-PKL-blue?logo=github&color=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple.svg?style=flat&logo=bootstrap&logoColor=white)
-![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/-PHP-grey.svg?style=flat&logo=PHP&logoColor=white&color=6B8E23)
-![MySQL](https://img.shields.io/badge/-MySQL-light.svg?style=flat&logo=mysql&logoColor=white&color=FF4500)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/SIAKLIK?logo=Codeforces&logoColor=white&color=%23F7DF1E)
+![Thesis-Project](https://img.shields.io/badge/Project-Internship-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
 
 # SIAKLIK
 PKL ini kami kerjakan dari tahun 2020 hingga 2021. Hasil dari PKL tersebut berupa Website Sistem Pelayanan Klinik. Hal ini dibuat sebagai upaya untuk memenuhi syarat kelulusan S1. Proyek ini sangat erat kaitannya dengan Klinik Kesehatan UPN Veteran Jawa Timur, dimana website yang dikembangkan memperhatikan fenomena yang ada di lapangan. Untuk mengetahui sejauh mana kualitas dari website ini, maka dilakukan uji validasi, hal ini menggunakan metode Blackbox Testing.
