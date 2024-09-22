@@ -4,7 +4,7 @@
 ![Thesis-Project](https://img.shields.io/badge/Project-Internship-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
 
 # SIAKLIK
-PKL ini kami kerjakan dari tahun 2020 hingga 2021. Hasil dari PKL tersebut berupa Website Sistem Pelayanan Klinik. Hal ini dibuat sebagai upaya untuk memenuhi syarat kelulusan S1. Proyek ini sangat erat kaitannya dengan Klinik Kesehatan UPN Veteran Jawa Timur, dimana website yang dikembangkan memperhatikan fenomena yang ada di lapangan. Untuk mengetahui sejauh mana kualitas dari website ini, maka dilakukan uji validasi, hal ini menggunakan metode Blackbox Testing.
+Program magang ini telah kami laksanakan selama kurang lebih enam bulan secara hybrid dari bulan Agustus 2020 hingga bulan Januari 2021. Selama magang, kami berhasil memperbarui sistem website Poliklinik UPN Veteran Jawa Timur. Pembaruan ini dilakukan sebagai upaya untuk memenuhi syarat kelulusan jenjang S1. Website yang dikembangkan telah disesuaikan dengan fenomena yang ada di lapangan. Untuk mengetahui sejauh mana kualitas website ini, diperlukan uji validasi, yang kami lakukan dengan metode Blackbox Testing.
 
 <br><br>
 
