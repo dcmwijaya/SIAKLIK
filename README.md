@@ -1,10 +1,10 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
 ![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/SIAKLIK?logo=Codeforces&logoColor=white&color=%23F7DF1E)
-![Thesis-Project](https://img.shields.io/badge/Project-Internship-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
+![Internship-Project](https://img.shields.io/badge/Project-Internship-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
 
 # SIAKLIK
-We worked on this PKL from 2020 to 2021. The results of the PKL are in the form of a Clinical Service System Website. This was made as an effort to fulfill the requirements for an undergraduate degree. This project is closely related to the UPN Veteran East Java Health Clinic, where the website developed takes into account the phenomena in the field. To find out the extent of the quality of this website, a validation test is carried out, this uses the Blackbox Testing method. 
+We have carried out this internship program for approximately six months on a hybrid basis from August 2020 to January 2021. During our internship, we managed to update the website system of Poliklinik UPN Veteran East Java. This update was carried out as an effort to fulfill the requirements for graduation from the undergraduate level. The developed website has been adjusted to the phenomena in the field. To find out the extent of the quality of this website, a validation test is needed, which we did using the Blackbox Testing method.
 
 <br><br>
 
