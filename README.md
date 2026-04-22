@@ -57,7 +57,7 @@ We have carried out this internship program for approximately six months on a hy
    
 2. Access the ``` browser ``` first in order to open the database admin panel, please copy the following link: ``` localhost/phpmyadmin/ ```.<br><br>
  
-3. Create a database called ``` siaklik_db ``` on local.<br><br>
+3. Create a database called ``` siaklik_db ```.<br><br>
 
 4. Open the ``` siaklik_db ``` database and Import ``` siaklik_db.sql ``` in the ``` SIAKLIK/public/assets/database ``` directory.<br><br>
 
