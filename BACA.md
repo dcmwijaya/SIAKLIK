@@ -53,11 +53,11 @@ Program magang ini telah kami laksanakan selama kurang lebih enam bulan secara h
 <br><br>
 
 ## Basis data
-1. Buka ``` XAMPP ```, lalu tekan tombol mulai di bagian ``` Apache ``` & ``` MySQL ```. Hal ini bertujuan untuk dapat mendukung website secara optimal.<br><br>
+1. Buka ``` XAMPP ```, lalu tekan tombol mulai di bagian ``` Apache ``` & ``` MySQL ``` untuk menjalankan server web dan server database secara lokal.<br><br>
 
 2. Akses ``` peramban ``` terlebih dahulu untuk membuka panel admin basis data, silakan salin tautan berikut: ``` localhost/phpmyadmin/ ```.<br><br>
    
-3. Buat basis data bernama ``` siaklik_db ``` di lokal.<br><br>
+3. Buat basis data bernama ``` siaklik_db ```.<br><br>
    
 4. Buka basis data ``` siaklik_db ``` dan Impor ``` siaklik_db.sql ``` di direktori ``` SIAKLIK/public/assets/database ```.<br><br>
 
